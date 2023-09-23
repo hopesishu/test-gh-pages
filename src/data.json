@@ -1,0 +1,6570 @@
+[
+    {
+        "Name": "Wheat",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
+        "Level": "1",
+        "MaxPrice": "3",
+        "Time": [
+            "2 min"
+        ],
+        "Xp": "1",
+        "Needs": [
+            "Wheat"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "50-101"
+    },
+    {
+        "Name": "Egg",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png",
+        "Level": "1",
+        "MaxPrice": "18",
+        "Time": [
+            "20 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Chicken_Feed"
+        ],
+        "Source": "Chicken",
+        "PerBoatCrate": "15-24"
+    },
+    {
+        "Name": "Corn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
+        "Level": "2",
+        "MaxPrice": "7",
+        "Time": [
+            "5 min"
+        ],
+        "Xp": "1",
+        "Needs": [
+            "Corn"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "50-87"
+    },
+    {
+        "Name": "Bread",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Bread.png",
+        "Level": "2",
+        "MaxPrice": "21",
+        "Time": [
+            "5 min",
+            "4 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "14-26"
+    },
+    {
+        "Name": "Chicken_Feed",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Chicken_Feed.png",
+        "Level": "3",
+        "MaxPrice": "7",
+        "Time": [
+            "5 min",
+            "4 min"
+        ],
+        "Xp": "1",
+        "Needs": [
+            "Corn",
+            "Wheat"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Soybean",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png",
+        "Level": "5",
+        "MaxPrice": "10",
+        "Time": [
+            "20 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Soybean"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "24-48"
+    },
+    {
+        "Name": "Cow_Feed",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Cow_Feed.png",
+        "Level": "6",
+        "MaxPrice": "14",
+        "Time": [
+            "10 min",
+            "8 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Corn",
+            "Soybean"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Milk",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/92/Milk.png",
+        "Level": "6",
+        "MaxPrice": "32",
+        "Time": [
+            "1 h"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Cow_Feed"
+        ],
+        "Source": "Cow",
+        "PerBoatCrate": "8-16"
+    },
+    {
+        "Name": "Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Cream.png",
+        "Level": "6",
+        "MaxPrice": "50",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Milk"
+        ],
+        "Source": "Dairy",
+        "PerBoatCrate": "8-12"
+    },
+    {
+        "Name": "Sugarcane",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png",
+        "Level": "7",
+        "MaxPrice": "14",
+        "Time": [
+            "30 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Sugarcane"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "14-31"
+    },
+    {
+        "Name": "Corn_Bread",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Corn_Bread.png",
+        "Level": "7",
+        "MaxPrice": "72",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Corn",
+            "Egg"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "4-8"
+    },
+    {
+        "Name": "Brown_Sugar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Brown_Sugar.png",
+        "Level": "7",
+        "MaxPrice": "32",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Sugarcane"
+        ],
+        "Source": "Sugar_Mill",
+        "PerBoatCrate": "8-13"
+    },
+    {
+        "Name": "Popcorn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Popcorn.png",
+        "Level": "8",
+        "MaxPrice": "32",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Corn"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "10-19"
+    },
+    {
+        "Name": "Carrot",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png",
+        "Level": "9",
+        "MaxPrice": "7",
+        "Time": [
+            "10 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Carrot"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "30-49"
+    },
+    {
+        "Name": "Butter",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Butter.png",
+        "Level": "9",
+        "MaxPrice": "82",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "10",
+        "Needs": [
+            "Milk"
+        ],
+        "Source": "Dairy",
+        "PerBoatCrate": "4-7"
+    },
+    {
+        "Name": "Pancake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Pancake.png",
+        "Level": "9",
+        "MaxPrice": "108",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Brown_Sugar",
+            "Egg"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Pig_Feed",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Pig_Feed.png",
+        "Level": "10",
+        "MaxPrice": "14",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Carrot",
+            "Soybean"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Bacon",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png",
+        "Level": "10",
+        "MaxPrice": "50",
+        "Time": [
+            "4 h"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Pig_Feed"
+        ],
+        "Source": "Pig",
+        "PerBoatCrate": "4-9"
+    },
+    {
+        "Name": "Cookie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Cookie.png",
+        "Level": "10",
+        "MaxPrice": "104",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Brown_Sugar",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2-5"
+    },
+    {
+        "Name": "Bacon_and_Eggs",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Bacon_and_Eggs.png",
+        "Level": "11",
+        "MaxPrice": "201",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Bacon",
+            "Egg"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Cheese",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png",
+        "Level": "12",
+        "MaxPrice": "122",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Milk"
+        ],
+        "Source": "Dairy",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Indigo",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png",
+        "Level": "13",
+        "MaxPrice": "25",
+        "Time": [
+            "2 h"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Indigo"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "8-19"
+    },
+    {
+        "Name": "White_Sugar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/ff/White_Sugar.png",
+        "Level": "13",
+        "MaxPrice": "50",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Sugarcane"
+        ],
+        "Source": "Sugar_Mill",
+        "PerBoatCrate": "4-13"
+    },
+    {
+        "Name": "Carrot_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0b/Carrot_Pie.png",
+        "Level": "14",
+        "MaxPrice": "82",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "10",
+        "Needs": [
+            "Carrot",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "4-7"
+    },
+    {
+        "Name": "Pumpkin",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png",
+        "Level": "15",
+        "MaxPrice": "32",
+        "Time": [
+            "3 h"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Pumpkin"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "9-16"
+    },
+    {
+        "Name": "Pumpkin_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Pumpkin_Pie.png",
+        "Level": "15",
+        "MaxPrice": "158",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Egg",
+            "Pumpkin",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Apple",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png",
+        "Level": "15",
+        "MaxPrice": "39",
+        "Time": [
+            "16 h"
+        ],
+        "Xp": "7",
+        "Needs": [],
+        "Source": "Apple_Tree",
+        "PerBoatCrate": "8-14"
+    },
+    {
+        "Name": "Sheep_Feed",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/58/Sheep_Feed.png",
+        "Level": "16",
+        "MaxPrice": "14",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Soybean",
+            "Wheat"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Wool",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png",
+        "Level": "16",
+        "MaxPrice": "54",
+        "Time": [
+            "6 h"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Sheep_Feed"
+        ],
+        "Source": "Sheep",
+        "PerBoatCrate": "5-9"
+    },
+    {
+        "Name": "Buttered_Popcorn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Buttered_Popcorn.png",
+        "Level": "16",
+        "MaxPrice": "126",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Butter",
+            "Corn"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "2-5"
+    },
+    {
+        "Name": "Sweater",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Sweater.png",
+        "Level": "17",
+        "MaxPrice": "151",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "18",
+        "Needs": [
+            "Wool"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Cotton",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png",
+        "Level": "18",
+        "MaxPrice": "28",
+        "Time": [
+            "2 h 30 min"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Cotton"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "10-16"
+    },
+    {
+        "Name": "Bacon_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Bacon_Pie.png",
+        "Level": "18",
+        "MaxPrice": "219",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Bacon",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Syrup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png",
+        "Level": "18",
+        "MaxPrice": "90",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "11",
+        "Needs": [
+            "Sugarcane"
+        ],
+        "Source": "Sugar_Mill",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Cotton_Fabric",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/Cotton_Fabric.png",
+        "Level": "18",
+        "MaxPrice": "108",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Cotton"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Hamburger",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a4/Hamburger.png",
+        "Level": "18",
+        "MaxPrice": "180",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "22",
+        "Needs": [
+            "Bacon",
+            "Bread"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Raspberry",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Raspberry.png",
+        "Level": "19",
+        "MaxPrice": "46",
+        "Time": [
+            "18 h"
+        ],
+        "Xp": "9",
+        "Needs": [],
+        "Source": "Raspberry_Bush",
+        "PerBoatCrate": "6-11"
+    },
+    {
+        "Name": "Raspberry_Muffin",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/22/Raspberry_Muffin.png",
+        "Level": "19",
+        "MaxPrice": "140",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "17",
+        "Needs": [
+            "Egg",
+            "Raspberry",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Blue_Woolly_Hat",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Blue_Woolly_Hat.png",
+        "Level": "19",
+        "MaxPrice": "111",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Indigo",
+            "Wool"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Cotton_Shirt",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Cotton_Shirt.png",
+        "Level": "19",
+        "MaxPrice": "241",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Cotton_Fabric"
+        ],
+        "Source": "Sewing_Machine",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Blue_Sweater",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/37/Blue_Sweater.png",
+        "Level": "20",
+        "MaxPrice": "208",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "25",
+        "Needs": [
+            "Indigo",
+            "Wool"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Carrot_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Carrot_Cake.png",
+        "Level": "21",
+        "MaxPrice": "165",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "20",
+        "Needs": [
+            "Brown_Sugar",
+            "Butter",
+            "Carrot"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Wooly_Chaps",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/22/Wooly_Chaps.png",
+        "Level": "21",
+        "MaxPrice": "309",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Cotton_Fabric",
+            "Wool"
+        ],
+        "Source": "Sewing_Machine",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Cherry",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png",
+        "Level": "22",
+        "MaxPrice": "68",
+        "Time": [
+            "1 d 3 h"
+        ],
+        "Xp": "13",
+        "Needs": [],
+        "Source": "Cherry_Tree",
+        "PerBoatCrate": "4-7"
+    },
+    {
+        "Name": "Cream_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Cream_Cake.png",
+        "Level": "23",
+        "MaxPrice": "219",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Cream",
+            "White_Sugar",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Red_Berry_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Red_Berry_Cake.png",
+        "Level": "23",
+        "MaxPrice": "255",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Cherry",
+            "Egg",
+            "Milk",
+            "Raspberry"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Cheesecake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Cheesecake.png",
+        "Level": "24",
+        "MaxPrice": "284",
+        "Time": [
+            "4 h",
+            "3 h 24 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Cheese",
+            "Cookie"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Silver_Ore",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/97/Silver_Ore.png",
+        "Level": "24",
+        "MaxPrice": "18",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Supplies"
+        ],
+        "Source": "Mine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Gold_Ore",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f7/Gold_Ore.png",
+        "Level": "24",
+        "MaxPrice": "21",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Supplies"
+        ],
+        "Source": "Mine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Platinum_Ore",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Platinum_Ore.png",
+        "Level": "24",
+        "MaxPrice": "32",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Supplies"
+        ],
+        "Source": "Mine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Silver_Bar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/94/Silver_Bar.png",
+        "Level": "24",
+        "MaxPrice": "147",
+        "Time": [
+            "8 h",
+            "6 h 48 min"
+        ],
+        "Xp": "18",
+        "Needs": [
+            "Silver_Ore"
+        ],
+        "Source": "Smelter",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Chili_Pepper",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png",
+        "Level": "25",
+        "MaxPrice": "36",
+        "Time": [
+            "4 h"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Chili_Pepper"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Chili_Popcorn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Chili_Popcorn.png",
+        "Level": "25",
+        "MaxPrice": "122",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Chili_Pepper",
+            "Corn"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Gold_Bar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Gold_Bar.png",
+        "Level": "25",
+        "MaxPrice": "180",
+        "Time": [
+            "12 h",
+            "10 h 12 min"
+        ],
+        "Xp": "21",
+        "Needs": [
+            "Gold_Ore"
+        ],
+        "Source": "Smelter",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Platinum_Bar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Platinum_Bar.png",
+        "Level": "25",
+        "MaxPrice": "205",
+        "Time": [
+            "16 h",
+            "13 h 36 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Platinum_Ore"
+        ],
+        "Source": "Smelter",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Violet_Dress",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Violet_Dress.png",
+        "Level": "25",
+        "MaxPrice": "327",
+        "Time": [
+            "2 h 15 min",
+            "1 h 54 min"
+        ],
+        "Xp": "39",
+        "Needs": [
+            "Cotton_Fabric",
+            "Indigo",
+            "Raspberry"
+        ],
+        "Source": "Sewing_Machine",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Blackberry",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Blackberry.png",
+        "Level": "26",
+        "MaxPrice": "82",
+        "Time": [
+            "1 d 8 h"
+        ],
+        "Xp": "16",
+        "Needs": [],
+        "Source": "Blackberry_Bush",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Blackberry_Muffin",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c9/Blackberry_Muffin.png",
+        "Level": "26",
+        "MaxPrice": "226",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Blackberry",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Carrot_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e0/Carrot_Juice.png",
+        "Level": "26",
+        "MaxPrice": "46",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Carrot"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "6-11"
+    },
+    {
+        "Name": "Lure",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Red_Lure.png",
+        "Level": "27",
+        "MaxPrice": "0",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "1",
+        "Needs": [],
+        "Source": "Lure_Workbench",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lure",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Green_Lure.png",
+        "Level": "27",
+        "MaxPrice": "0",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Voucher"
+        ],
+        "Source": "Lure_Workbench",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lure",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/12/Blue_Lure.png",
+        "Level": "27",
+        "MaxPrice": "0",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Voucher"
+        ],
+        "Source": "Lure_Workbench",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lure",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Purple_Lure.png",
+        "Level": "27",
+        "MaxPrice": "0",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Voucher"
+        ],
+        "Source": "Lure_Workbench",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lure",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Gold_Lure.png",
+        "Level": "27",
+        "MaxPrice": "0",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Voucher"
+        ],
+        "Source": "Lure_Workbench",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Fish_Fillet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/63/Fish_Fillet.png",
+        "Level": "27",
+        "MaxPrice": "54",
+        "Time": [
+            "Instantor 20 h"
+        ],
+        "Xp": "4-20",
+        "Needs": [
+            "Lure",
+            "Fishing_Net",
+            "Fishing"
+        ],
+        "Source": "Fish",
+        "PerBoatCrate": "6-9"
+    },
+    {
+        "Name": "Fish_Burger",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7e/Fish_Burger.png",
+        "Level": "27",
+        "MaxPrice": "226",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Bread",
+            "Chili_Pepper",
+            "Fish_Fillet"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Apple_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Apple_Pie.png",
+        "Level": "28",
+        "MaxPrice": "270",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Apple",
+            "Egg",
+            "Syrup",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Fish_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ec/Fish_Pie.png",
+        "Level": "28",
+        "MaxPrice": "226",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Egg",
+            "Fish_Fillet",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Apple_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Apple_Juice.png",
+        "Level": "28",
+        "MaxPrice": "129",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Apple"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "3-7"
+    },
+    {
+        "Name": "Vanilla_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/15/Vanilla_Ice_Cream.png",
+        "Level": "29",
+        "MaxPrice": "172",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "20",
+        "Needs": [
+            "Cream",
+            "Milk",
+            "White_Sugar"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Tomato",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png",
+        "Level": "30",
+        "MaxPrice": "43",
+        "Time": [
+            "6 h"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Tomato"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "6-12"
+    },
+    {
+        "Name": "Roasted_Tomatoes",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/04/Roasted_Tomatoes.png",
+        "Level": "30",
+        "MaxPrice": "118",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "14",
+        "Needs": [
+            "Tomato"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Cherry_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Cherry_Juice.png",
+        "Level": "30",
+        "MaxPrice": "216",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Cherry"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Fishing_Net",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a1/Fishing_Net.png",
+        "Level": "30",
+        "MaxPrice": "0",
+        "Time": [
+            "4 h",
+            "3 h 24 min"
+        ],
+        "Xp": "7",
+        "Needs": [],
+        "Source": "Net_Maker",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Mystery_Net",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Mystery_Net.png",
+        "Level": "30",
+        "MaxPrice": "0",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Diamond"
+        ],
+        "Source": "Net_Maker",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Tomato_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Tomato_Juice.png",
+        "Level": "31",
+        "MaxPrice": "162",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Tomato"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Berry_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Berry_Juice.png",
+        "Level": "31",
+        "MaxPrice": "205",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Blackberry",
+            "Raspberry"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Goat_Feed",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Goat_Feed.png",
+        "Level": "32",
+        "MaxPrice": "14",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Carrot",
+            "Corn",
+            "Wheat"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Goat_Milk",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Goat_Milk.png",
+        "Level": "32",
+        "MaxPrice": "64",
+        "Time": [
+            "8 h"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Goat_Feed"
+        ],
+        "Source": "Goat",
+        "PerBoatCrate": "5-8"
+    },
+    {
+        "Name": "Goat_Cheese",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Goat_Cheese.png",
+        "Level": "33",
+        "MaxPrice": "162",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Goat_Milk"
+        ],
+        "Source": "Dairy",
+        "PerBoatCrate": "2-5"
+    },
+    {
+        "Name": "Pizza",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f4/Pizza.png",
+        "Level": "33",
+        "MaxPrice": "190",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "23",
+        "Needs": [
+            "Cheese",
+            "Tomato",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Coal",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a7/Coal.png",
+        "Level": "33",
+        "MaxPrice": "10",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Supplies"
+        ],
+        "Source": "Mine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Refined_Coal",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Refined_Coal.png",
+        "Level": "33",
+        "MaxPrice": "108",
+        "Time": [
+            "6 h",
+            "5 h 6 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Coal"
+        ],
+        "Source": "Smelter",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Cherry_Popsicle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Cherry_Popsicle.png",
+        "Level": "33",
+        "MaxPrice": "352",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Cherry_Juice",
+            "Syrup"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Strawberry",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png",
+        "Level": "34",
+        "MaxPrice": "50",
+        "Time": [
+            "8 h"
+        ],
+        "Xp": "10",
+        "Needs": [
+            "Strawberry"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "3-10"
+    },
+    {
+        "Name": "Feta_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Feta_Pie.png",
+        "Level": "34",
+        "MaxPrice": "223",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Egg",
+            "Goat_Cheese",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Iron_Ore",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png",
+        "Level": "34",
+        "MaxPrice": "14",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Supplies"
+        ],
+        "Source": "Mine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Iron_Bar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Iron_Bar.png",
+        "Level": "34",
+        "MaxPrice": "129",
+        "Time": [
+            "7 h",
+            "5 h 57 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Iron_Ore"
+        ],
+        "Source": "Smelter",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Strawberry_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8d/Strawberry_Ice_Cream.png",
+        "Level": "34",
+        "MaxPrice": "331",
+        "Time": [
+            "4 h",
+            "3 h 24 min"
+        ],
+        "Xp": "40",
+        "Needs": [
+            "Cream",
+            "Milk",
+            "Strawberry",
+            "White_Sugar"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Wheat_Bundle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Wheat_Bundle.png",
+        "Level": "34 (Rep. 3)",
+        "MaxPrice": "50",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "10",
+        "Needs": [
+            "Wheat"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Meat_Bucket",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5e/Meat_Bucket.png",
+        "Level": "34 (Rep. 3)",
+        "MaxPrice": "72",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Fish_Fillet",
+            "Carrot"
+        ],
+        "Source": "Feed_Mill",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Potato",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png",
+        "Level": "35",
+        "MaxPrice": "36",
+        "Time": [
+            "3 h 40 min"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Potato"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "6-14"
+    },
+    {
+        "Name": "Strawberry_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1a/Strawberry_Cake.png",
+        "Level": "35",
+        "MaxPrice": "316",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Cream",
+            "Strawberry",
+            "Wheat",
+            "White_Sugar"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Baked_Potato",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/11/Baked_Potato.png",
+        "Level": "35",
+        "MaxPrice": "298",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Cheese",
+            "Chili_Pepper",
+            "Cream",
+            "Potato"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Apple_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Apple_Jam.png",
+        "Level": "35",
+        "MaxPrice": "219",
+        "Time": [
+            "6 h",
+            "5 h 6 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Apple"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Chocolate_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Chocolate_Cake.png",
+        "Level": "36",
+        "MaxPrice": "320",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Brown_Sugar",
+            "Butter",
+            "Cacao"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Casserole",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b6/Casserole.png",
+        "Level": "36",
+        "MaxPrice": "367",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Bacon",
+            "Cheese",
+            "Egg",
+            "Potato"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Cacao",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png",
+        "Level": "36",
+        "MaxPrice": "86",
+        "Time": [
+            "1 d 10 h"
+        ],
+        "Xp": "16",
+        "Needs": [],
+        "Source": "Cacao_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Raspberry_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Raspberry_Jam.png",
+        "Level": "36",
+        "MaxPrice": "252",
+        "Time": [
+            "7 h",
+            "5 h 57 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Raspberry"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Spicy_Pizza",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Spicy_Pizza.png",
+        "Level": "37",
+        "MaxPrice": "226",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Cheese",
+            "Chili_Pepper",
+            "Tomato",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Blackberry_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Blackberry_Jam.png",
+        "Level": "37",
+        "MaxPrice": "388",
+        "Time": [
+            "8 h",
+            "6 h 48 min"
+        ],
+        "Xp": "46",
+        "Needs": [
+            "Blackberry"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Potato_Feta_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Potato_Feta_Cake.png",
+        "Level": "38",
+        "MaxPrice": "309",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Egg",
+            "Goat_Cheese",
+            "Potato"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Cherry_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/53/Cherry_Jam.png",
+        "Level": "38",
+        "MaxPrice": "334",
+        "Time": [
+            "7 h",
+            "5 h 57 min"
+        ],
+        "Xp": "40",
+        "Needs": [
+            "Cherry"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Bracelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Bracelet.png",
+        "Level": "38",
+        "MaxPrice": "514",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "61",
+        "Needs": [
+            "Gold_Bar",
+            "Silver_Bar"
+        ],
+        "Source": "Jeweler",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Potato_Bread",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/26/Potato_Bread.png",
+        "Level": "39",
+        "MaxPrice": "284",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Butter",
+            "Egg",
+            "Potato",
+            "White_Sugar"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Shepherd%27s_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Shepherds_Pie.png",
+        "Level": "39",
+        "MaxPrice": "280",
+        "Time": [
+            "1 h 40 min",
+            "1 h 25 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Bacon",
+            "Carrot",
+            "Potato",
+            "Pumpkin"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chocolate_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Chocolate_Ice_Cream.png",
+        "Level": "39",
+        "MaxPrice": "342",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "41",
+        "Needs": [
+            "Cream",
+            "Cacao",
+            "Milk",
+            "White_Sugar"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Honeycomb",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Honeycomb.png",
+        "Level": "39",
+        "MaxPrice": "68",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "8",
+        "Needs": [],
+        "Source": "Beehive_Tree",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Necklace",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Necklace.png",
+        "Level": "39",
+        "MaxPrice": "727",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "87",
+        "Needs": [
+            "Gold_Bar",
+            "Platinum_Bar",
+            "Silver_Bar"
+        ],
+        "Source": "Jeweler",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Honey",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Honey.png",
+        "Level": "39",
+        "MaxPrice": "154",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Honeycomb"
+        ],
+        "Source": "Honey_Extractor",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Honey_Popcorn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Honey_Popcorn.png",
+        "Level": "40",
+        "MaxPrice": "360",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "43",
+        "Needs": [
+            "Corn",
+            "Honey"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "3-5"
+    },
+    {
+        "Name": "Diamond_Ring",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Diamond_Ring.png",
+        "Level": "40",
+        "MaxPrice": "824",
+        "Time": [
+            "4 h",
+            "3 h 24 min"
+        ],
+        "Xp": "98",
+        "Needs": [
+            "Diamond",
+            "Gold_Bar",
+            "Platinum_Bar"
+        ],
+        "Source": "Jeweler",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Fish_and_Chips",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ea/Fish_and_Chips.png",
+        "Level": "41",
+        "MaxPrice": "244",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Fish_Fillet",
+            "Potato"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Iron_Bracelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Iron_Bracelet.png",
+        "Level": "41",
+        "MaxPrice": "658",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "79",
+        "Needs": [
+            "Iron_Bar",
+            "Refined_Coal",
+            "Silver_Bar"
+        ],
+        "Source": "Jeweler",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Coffee_Bean",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png",
+        "Level": "42",
+        "MaxPrice": "64",
+        "Time": [
+            "1 d 1 h"
+        ],
+        "Xp": "12",
+        "Needs": [],
+        "Source": "Coffee_Bush",
+        "PerBoatCrate": "4-8"
+    },
+    {
+        "Name": "Espresso",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/Espresso.png",
+        "Level": "42",
+        "MaxPrice": "248",
+        "Time": [
+            "5 min",
+            "4 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Coffee_Bean",
+            "White_Sugar"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Honey_Apple_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/16/Honey_Apple_Cake.png",
+        "Level": "42",
+        "MaxPrice": "482",
+        "Time": [
+            "3 h 20 min",
+            "2 h 50 min"
+        ],
+        "Xp": "57",
+        "Needs": [
+            "Apple",
+            "Egg",
+            "Honey",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Caff%C3%A8_Latte",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6e/Caff%C3%A8_Latte.png",
+        "Level": "43",
+        "MaxPrice": "219",
+        "Time": [
+            "10 min",
+            "8 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Coffee_Bean",
+            "Milk",
+            "White_Sugar"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chocolate_Popcorn",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/Chocolate_Popcorn.png",
+        "Level": "44",
+        "MaxPrice": "248",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Cacao",
+            "Corn"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Lobster_Trap",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Lobster_Trap.png",
+        "Level": "44",
+        "MaxPrice": "0",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "5",
+        "Needs": [],
+        "Source": "Net_Maker",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lobster_Tail",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Lobster_Tail.png",
+        "Level": "44",
+        "MaxPrice": "201",
+        "Time": [
+            "6 h"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Lobster"
+        ],
+        "Source": "Lobster_Pool",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Frutti_di_Mare_Pizza",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Frutti_di_Mare_Pizza.png",
+        "Level": "45",
+        "MaxPrice": "403",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Cheese",
+            "Fish_Fillet",
+            "Lobster_Tail",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Caff%C3%A8_Mocha",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Caff%C3%A8_Mocha.png",
+        "Level": "45",
+        "MaxPrice": "291",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "35",
+        "Needs": [
+            "Coffee_Bean",
+            "Cream",
+            "Cacao"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Raspberry_Mocha",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Raspberry_Mocha.png",
+        "Level": "46",
+        "MaxPrice": "259",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Cacao",
+            "Coffee_Bean",
+            "Cream",
+            "Raspberry"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Lobster_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Lobster_Soup.png",
+        "Level": "46",
+        "MaxPrice": "612",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "73",
+        "Needs": [
+            "Chili_Pepper",
+            "Cream",
+            "Lobster_Tail",
+            "Tomato"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Hot_Chocolate",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Hot_Chocolate.png",
+        "Level": "47",
+        "MaxPrice": "316",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Cacao",
+            "Cream",
+            "Milk",
+            "White_Sugar"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Tomato_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dc/Tomato_Soup.png",
+        "Level": "47",
+        "MaxPrice": "478",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "57",
+        "Needs": [
+            "Chili_Pepper",
+            "Goat_Cheese",
+            "Tomato_Juice",
+            "Tomato"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Red_Scarf",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Red_Scarf.png",
+        "Level": "48",
+        "MaxPrice": "288",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Strawberry",
+            "Wool"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Lobster_Skewer",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Lobster_Skewer.png",
+        "Level": "48",
+        "MaxPrice": "417",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Chili_Pepper",
+            "Honey",
+            "Lobster_Tail"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Beeswax",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Beeswax.png",
+        "Level": "48",
+        "MaxPrice": "234",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "28",
+        "Needs": [
+            "Honeycomb"
+        ],
+        "Source": "Honey_Extractor",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Strawberry_Candle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Strawberry_Candle.png",
+        "Level": "48",
+        "MaxPrice": "370",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Beeswax",
+            "Strawberry"
+        ],
+        "Source": "Candle_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Rustic_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Rustic_Bouquet.png",
+        "Level": "49",
+        "MaxPrice": "208",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "25",
+        "Needs": [
+            "Wheat",
+            "Indigo",
+            "Cotton"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Pumpkin_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Pumpkin_Soup.png",
+        "Level": "49",
+        "MaxPrice": "392",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "47",
+        "Needs": [
+            "Butter",
+            "Carrot",
+            "Honey",
+            "Pumpkin"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Asparagus",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png",
+        "Level": "49",
+        "MaxPrice": "43",
+        "Time": [
+            "6 h"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Asparagus"
+        ],
+        "Source": "Field",
+        "PerBoatCrate": "6-12"
+    },
+    {
+        "Name": "Asparagus_Quiche",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Asparagus_Quiche.png",
+        "Level": "49",
+        "MaxPrice": "302",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Asparagus",
+            "Egg",
+            "Cheese",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Strawberry_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Strawberry_Jam.png",
+        "Level": "50",
+        "MaxPrice": "270",
+        "Time": [
+            "7 h 30 min",
+            "6 h 22 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Strawberry"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Duck_Trap",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a7/Duck_Trap.png",
+        "Level": "50",
+        "MaxPrice": "0",
+        "Time": [
+            "60 min",
+            "51 min"
+        ],
+        "Xp": "3",
+        "Needs": [],
+        "Source": "Net_Maker",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Duck_Feather",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Duck_Feather.png",
+        "Level": "50",
+        "MaxPrice": "140",
+        "Time": [
+            "3 h"
+        ],
+        "Xp": "17",
+        "Needs": [
+            "Duck"
+        ],
+        "Source": "Duck_Salon",
+        "PerBoatCrate": "3-6"
+    },
+    {
+        "Name": "Sesame",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png",
+        "Level": "50",
+        "MaxPrice": "18",
+        "Time": [
+            "1 h"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Sesame"
+        ],
+        "Source": "Field",
+        "PerBoatCrate": "16-25"
+    },
+    {
+        "Name": "Sesame_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Sesame_Ice_Cream.png",
+        "Level": "50",
+        "MaxPrice": "176",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "21",
+        "Needs": [
+            "Cream",
+            "Sesame",
+            "Brown_Sugar"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "2-5"
+    },
+    {
+        "Name": "Caramel_Apple",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Caramel_Apple.png",
+        "Level": "51",
+        "MaxPrice": "255",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Apple",
+            "Syrup"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Pillow",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Pillow.png",
+        "Level": "51",
+        "MaxPrice": "676",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "81",
+        "Needs": [
+            "Cotton_Fabric",
+            "Duck_Feather"
+        ],
+        "Source": "Sewing_Machine",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Asparagus_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Asparagus_Soup.png",
+        "Level": "51",
+        "MaxPrice": "255",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Asparagus",
+            "Cream"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Toffee",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/29/Toffee.png",
+        "Level": "52",
+        "MaxPrice": "176",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "21",
+        "Needs": [
+            "Butter",
+            "Wheat",
+            "White_Sugar"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Raspberry_Candle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Raspberry_Candle.png",
+        "Level": "52",
+        "MaxPrice": "360",
+        "Time": [
+            "1 h 45 min",
+            "1 h 29 min"
+        ],
+        "Xp": "43",
+        "Needs": [
+            "Beeswax",
+            "Raspberry"
+        ],
+        "Source": "Candle_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Pineapple",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png",
+        "Level": "52",
+        "MaxPrice": "14",
+        "Time": [
+            "30 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Pineapple"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "20-31"
+    },
+    {
+        "Name": "Pineapple_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fd/Pineapple_Juice.png",
+        "Level": "52",
+        "MaxPrice": "68",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Pineapple"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "5-8"
+    },
+    {
+        "Name": "Fish_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Fish_Soup.png",
+        "Level": "53",
+        "MaxPrice": "298",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "35",
+        "Needs": [
+            "Carrot",
+            "Fish_Fillet",
+            "Milk",
+            "Potato"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Lily",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png",
+        "Level": "53",
+        "MaxPrice": "21",
+        "Time": [
+            "1 h 30 min"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Lily"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "12-20"
+    },
+    {
+        "Name": "Soy_Sauce",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/97/Soy_Sauce.png",
+        "Level": "54",
+        "MaxPrice": "154",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Soybean",
+            "Wheat"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Chocolate",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/df/Chocolate.png",
+        "Level": "54",
+        "MaxPrice": "460",
+        "Time": [
+            "20 h",
+            "17 h"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Cacao",
+            "Cream",
+            "White_Sugar"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Fancy_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Fancy_Cake.png",
+        "Level": "54",
+        "MaxPrice": "450",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "49",
+        "Needs": [
+            "Cream_Cake",
+            "Lily",
+            "Raspberry",
+            "Gold_Ore"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Rice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png",
+        "Level": "56",
+        "MaxPrice": "18",
+        "Time": [
+            "45 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Rice"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "19-32"
+    },
+    {
+        "Name": "Sushi_Roll",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cf/Sushi_Roll.png",
+        "Level": "56",
+        "MaxPrice": "489",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "58",
+        "Needs": [
+            "Fish_Fillet",
+            "Rice",
+            "Soy_Sauce"
+        ],
+        "Source": "Sushi_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Olive",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png",
+        "Level": "57",
+        "MaxPrice": "82",
+        "Time": [
+            "1 d"
+        ],
+        "Xp": "17",
+        "Needs": [],
+        "Source": "Olive_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Lollipop",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/58/Lollipop.png",
+        "Level": "57",
+        "MaxPrice": "342",
+        "Time": [
+            "12 h",
+            "10 h 12 min"
+        ],
+        "Xp": "41",
+        "Needs": [
+            "Cherry",
+            "Strawberry",
+            "Syrup"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Lettuce",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png",
+        "Level": "58",
+        "MaxPrice": "32",
+        "Time": [
+            "3 h 30 min"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Lettuce"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "9-14"
+    },
+    {
+        "Name": "Feta_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Feta_Salad.png",
+        "Level": "58",
+        "MaxPrice": "745",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "89",
+        "Needs": [
+            "Goat_Cheese",
+            "Lettuce",
+            "Olive",
+            "Roasted_Tomatoes"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Lobster_Sushi",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7b/Lobster_Sushi.png",
+        "Level": "59",
+        "MaxPrice": "637",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "76",
+        "Needs": [
+            "Lobster_Tail",
+            "Rice",
+            "Soy_Sauce"
+        ],
+        "Source": "Sushi_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Blanket",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3b/Blanket.png",
+        "Level": "59",
+        "MaxPrice": "1098",
+        "Time": [
+            "3 h 30 min",
+            "2 h 58 min"
+        ],
+        "Xp": "131",
+        "Needs": [
+            "Cotton_Fabric",
+            "Duck_Feather",
+            "Pumpkin"
+        ],
+        "Source": "Sewing_Machine",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Jelly_Beans",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Jelly_Beans.png",
+        "Level": "60",
+        "MaxPrice": "684",
+        "Time": [
+            "24 h",
+            "20 h 24 min"
+        ],
+        "Xp": "81",
+        "Needs": [
+            "Blackberry_Jam",
+            "Raspberry_Jam",
+            "White_Sugar"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Olive_Oil",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Olive_Oil.png",
+        "Level": "60",
+        "MaxPrice": "277",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "33",
+        "Needs": [
+            "Olive"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Garlic",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png",
+        "Level": "60",
+        "MaxPrice": "14",
+        "Time": [
+            "30 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Garlic"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "22-31"
+    },
+    {
+        "Name": "Garlic_Bread",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7f/Garlic_Bread.png",
+        "Level": "60",
+        "MaxPrice": "198",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Bread",
+            "Butter",
+            "Garlic"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Veggie_Bagel",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Veggie_Bagel.png",
+        "Level": "61",
+        "MaxPrice": "532",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "63",
+        "Needs": [
+            "Bread",
+            "Lettuce",
+            "Olive_Oil",
+            "Tomato"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Mayonnaise",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Mayonnaise.png",
+        "Level": "62",
+        "MaxPrice": "367",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Egg",
+            "Olive_Oil"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "BLT_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/BLT_Salad.png",
+        "Level": "62",
+        "MaxPrice": "723",
+        "Time": [
+            "1 h 45 min",
+            "1 h 29 min"
+        ],
+        "Xp": "86",
+        "Needs": [
+            "Bacon",
+            "Lettuce",
+            "Mayonnaise",
+            "Roasted_Tomatoes"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Caramel_Latte",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Caramel_Latte.png",
+        "Level": "62",
+        "MaxPrice": "345",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "41",
+        "Needs": [
+            "Coffee_Bean",
+            "Toffee",
+            "Milk"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Peanuts",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Peanuts.png",
+        "Level": "62",
+        "MaxPrice": "234",
+        "Time": [
+            "Instant"
+        ],
+        "Xp": "43",
+        "Needs": [],
+        "Source": "Squirrel_House",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Sunflower",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png",
+        "Level": "63",
+        "MaxPrice": "21",
+        "Time": [
+            "1 h 30 min"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Sunflower"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "12-19"
+    },
+    {
+        "Name": "Egg_Sushi",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Egg_Sushi.png",
+        "Level": "63",
+        "MaxPrice": "550",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "66",
+        "Needs": [
+            "Brown_Sugar",
+            "Egg",
+            "Rice",
+            "Soy_Sauce"
+        ],
+        "Source": "Sushi_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Honey_Peanuts",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/Honey_Peanuts.png",
+        "Level": "63",
+        "MaxPrice": "468",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "64",
+        "Needs": [
+            "Honey",
+            "Peanuts"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Seafood_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Seafood_Salad.png",
+        "Level": "64",
+        "MaxPrice": "763",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "91",
+        "Needs": [
+            "Fish_Fillet",
+            "Lettuce",
+            "Lobster_Tail",
+            "Mayonnaise"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Berry_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Berry_Smoothie.png",
+        "Level": "64",
+        "MaxPrice": "547",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "65",
+        "Needs": [
+            "Blackberry",
+            "Strawberry",
+            "Raspberry"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Snack_Mix",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Snack_Mix.png",
+        "Level": "64",
+        "MaxPrice": "309",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Corn",
+            "Sesame",
+            "Peanuts"
+        ],
+        "Source": "Popcorn_Pot",
+        "PerBoatCrate": "5-7"
+    },
+    {
+        "Name": "Bright_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Bright_Bouquet.png",
+        "Level": "65",
+        "MaxPrice": "338",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "40",
+        "Needs": [
+            "Sunflower",
+            "Indigo",
+            "Cotton",
+            "Iron_Ore"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Bacon_Toast",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/Bacon_Toast.png",
+        "Level": "65",
+        "MaxPrice": "648",
+        "Time": [
+            "1 h 40 min",
+            "1 h 25 min"
+        ],
+        "Xp": "77",
+        "Needs": [
+            "Bacon",
+            "Bread",
+            "Lettuce",
+            "Mayonnaise"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Pineapple_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Pineapple_Cake.png",
+        "Level": "65",
+        "MaxPrice": "259",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Pineapple",
+            "Egg",
+            "Cherry",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chocolate_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Chocolate_Pie.png",
+        "Level": "65",
+        "MaxPrice": "514",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "70",
+        "Needs": [
+            "Wheat",
+            "Cacao",
+            "Egg",
+            "Peanuts"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Cabbage",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png",
+        "Level": "65",
+        "MaxPrice": "18",
+        "Time": [
+            "45 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Cabbage"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "12-31"
+    },
+    {
+        "Name": "Cabbage_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Cabbage_Soup.png",
+        "Level": "65",
+        "MaxPrice": "270",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Cabbage",
+            "Bacon",
+            "Potato",
+            "Carrot"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Lemon",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Lemon.png",
+        "Level": "66",
+        "MaxPrice": "93",
+        "Time": [
+            "1 d 5 h"
+        ],
+        "Xp": "18",
+        "Needs": [],
+        "Source": "Lemon_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Lemon_Curd",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ea/Lemon_Curd.png",
+        "Level": "66",
+        "MaxPrice": "378",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "45",
+        "Needs": [
+            "Butter",
+            "Egg",
+            "Lemon",
+            "White_Sugar"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Olive_Dip",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/32/Olive_Dip.png",
+        "Level": "66",
+        "MaxPrice": "468",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "56",
+        "Needs": [
+            "Olive",
+            "Bread",
+            "Lemon",
+            "Fish_Fillet"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Egg_Sandwich",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Egg_Sandwich.png",
+        "Level": "66",
+        "MaxPrice": "583",
+        "Time": [
+            "1 h 20 min",
+            "1 h 8 min"
+        ],
+        "Xp": "69",
+        "Needs": [
+            "Bread",
+            "Egg",
+            "Lettuce",
+            "Mayonnaise"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Green_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Green_Smoothie.png",
+        "Level": "66",
+        "MaxPrice": "320",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Apple",
+            "Lemon",
+            "Lettuce"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Fresh_Pasta",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Fresh_Pasta.png",
+        "Level": "67",
+        "MaxPrice": "43",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Pasta_Maker",
+        "PerBoatCrate": "8-12"
+    },
+    {
+        "Name": "Pasta_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/18/Pasta_Salad.png",
+        "Level": "67",
+        "MaxPrice": "759",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "90",
+        "Needs": [
+            "Fresh_Pasta",
+            "Lemon",
+            "Olive_Oil",
+            "Tomato"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Lemon_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Lemon_Pie.png",
+        "Level": "67",
+        "MaxPrice": "446",
+        "Time": [
+            "2 h 15 min",
+            "1 h 54 min"
+        ],
+        "Xp": "53",
+        "Needs": [
+            "Egg",
+            "Lemon_Curd",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Grilled_Asparagus",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cf/Grilled_Asparagus.png",
+        "Level": "67",
+        "MaxPrice": "486",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "58",
+        "Needs": [
+            "Asparagus",
+            "Bacon",
+            "Lemon"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Onion",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png",
+        "Level": "68",
+        "MaxPrice": "39",
+        "Time": [
+            "5 h"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Onion"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "8-9"
+    },
+    {
+        "Name": "Grilled_Onion",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Grilled_Onion.png",
+        "Level": "68",
+        "MaxPrice": "190",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "23",
+        "Needs": [
+            "Butter",
+            "Onion"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "3"
+    },
+    {
+        "Name": "Lemon_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Lemon_Cake.png",
+        "Level": "68",
+        "MaxPrice": "896",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "107",
+        "Needs": [
+            "Cream",
+            "Egg",
+            "Lemon_Curd",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Peanut_Butter_Milkshake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b7/Peanut_Butter_Milkshake.png",
+        "Level": "68",
+        "MaxPrice": "619",
+        "Time": [
+            "1 h 40 min",
+            "1 h 25 min"
+        ],
+        "Xp": "86",
+        "Needs": [
+            "Peanuts",
+            "Milk",
+            "Cream",
+            "Cacao"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Tomato_Sauce",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/Tomato_Sauce.png",
+        "Level": "69",
+        "MaxPrice": "230",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Brown_Sugar",
+            "Lemon",
+            "Tomato"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Honey_Toast",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Honey_Toast.png",
+        "Level": "69",
+        "MaxPrice": "255",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Bread",
+            "Egg",
+            "Honey",
+            "Milk"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Fried_Rice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Fried_Rice.png",
+        "Level": "69",
+        "MaxPrice": "205",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Rice",
+            "Egg"
+        ],
+        "Source": "Wok_Kitchen",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Yogurt_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Yogurt_Smoothie.png",
+        "Level": "70",
+        "MaxPrice": "349",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Cherry",
+            "Cream",
+            "Raspberry",
+            "White_Sugar"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Cloche_Hat",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/Cloche_Hat.png",
+        "Level": "70",
+        "MaxPrice": "468",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "56",
+        "Needs": [
+            "Strawberry",
+            "Wool"
+        ],
+        "Source": "Hat_Maker",
+        "PerBoatCrate": "1-4"
+    },
+    {
+        "Name": "Cucumber",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png",
+        "Level": "70",
+        "MaxPrice": "14",
+        "Time": [
+            "35 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Cucumber"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "21-31"
+    },
+    {
+        "Name": "Cucumber_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/57/Cucumber_Smoothie.png",
+        "Level": "70",
+        "MaxPrice": "266",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Cucumber",
+            "Honey",
+            "Pineapple"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Orange",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Orange.png",
+        "Level": "71",
+        "MaxPrice": "97",
+        "Time": [
+            "1 d 7 h"
+        ],
+        "Xp": "19",
+        "Needs": [],
+        "Source": "Orange_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Flower_Shawl",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Flower_Shawl.png",
+        "Level": "71",
+        "MaxPrice": "295",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "35",
+        "Needs": [
+            "Wool",
+            "Sunflower",
+            "Blackberry"
+        ],
+        "Source": "Loom",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Orange_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7e/Orange_Juice.png",
+        "Level": "71",
+        "MaxPrice": "234",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "28",
+        "Needs": [
+            "Orange"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Peanut_Butter_and_Jelly_Sandwich",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Peanut_Butter_and_Jelly_Sandwich.png",
+        "Level": "71",
+        "MaxPrice": "601",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "80",
+        "Needs": [
+            "Bread",
+            "Raspberry_Jam",
+            "Peanuts"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Onion_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/05/Onion_Soup.png",
+        "Level": "72",
+        "MaxPrice": "327",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "39",
+        "Needs": [
+            "Bread",
+            "Cheese",
+            "Onion"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Lemon_Candle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Lemon_Candle.png",
+        "Level": "72",
+        "MaxPrice": "457",
+        "Time": [
+            "2 h 15 min",
+            "1 h 54 min"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Beeswax",
+            "Lemon"
+        ],
+        "Source": "Candle_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Top_Hat",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8d/Top_Hat.png",
+        "Level": "72",
+        "MaxPrice": "619",
+        "Time": [
+            "3 h 30 min",
+            "2 h 58 min"
+        ],
+        "Xp": "74",
+        "Needs": [
+            "Cotton_Fabric",
+            "Duck_Feather",
+            "Refined_Coal"
+        ],
+        "Source": "Hat_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Gnocchi",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Gnocchi.png",
+        "Level": "72",
+        "MaxPrice": "475",
+        "Time": [
+            "1 h 20 min",
+            "1 h 8 min"
+        ],
+        "Xp": "57",
+        "Needs": [
+            "Potato",
+            "Tomato",
+            "Wheat",
+            "Butter"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Beetroot",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png",
+        "Level": "72",
+        "MaxPrice": "14",
+        "Time": [
+            "40 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Beetroot"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "20-31"
+    },
+    {
+        "Name": "Winter_Veggies",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Winter_Veggies.png",
+        "Level": "72",
+        "MaxPrice": "198",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "Beetroot",
+            "Carrot",
+            "Potato",
+            "Pumpkin"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Rice_Noodles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Rice_Noodles.png",
+        "Level": "73",
+        "MaxPrice": "100",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "12",
+        "Needs": [
+            "Rice"
+        ],
+        "Source": "Pasta_Maker",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Noodle_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/86/Noodle_Soup.png",
+        "Level": "73",
+        "MaxPrice": "432",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "52",
+        "Needs": [
+            "Carrot",
+            "Chili_Pepper",
+            "Egg",
+            "Rice_Noodles"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Gracious_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Gracious_Bouquet.png",
+        "Level": "73",
+        "MaxPrice": "500",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "60",
+        "Needs": [
+            "Cotton_Fabric",
+            "Lily",
+            "Gold_Ore",
+            "Diamond"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Bell_Pepper",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png",
+        "Level": "74",
+        "MaxPrice": "36",
+        "Time": [
+            "4 h 30 min"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Bell_Pepper"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "10-14"
+    },
+    {
+        "Name": "Marmalade",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Marmalade.png",
+        "Level": "74",
+        "MaxPrice": "457",
+        "Time": [
+            "8 h 30 min",
+            "7 h 13 min"
+        ],
+        "Xp": "54",
+        "Needs": [
+            "Orange"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Sun_Hat",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Sun_Hat.png",
+        "Level": "74",
+        "MaxPrice": "558",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "66",
+        "Needs": [
+            "Duck_Feather",
+            "Indigo",
+            "Raspberry",
+            "Wool"
+        ],
+        "Source": "Hat_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Veggie_Lasagna",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d1/Veggie_Lasagna.png",
+        "Level": "74",
+        "MaxPrice": "532",
+        "Time": [
+            "1 h 40 min",
+            "1 h 25 min"
+        ],
+        "Xp": "63",
+        "Needs": [
+            "Tomato_Sauce",
+            "Fresh_Pasta",
+            "Carrot",
+            "Cheese"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Veggie_Platter",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Veggie_Platter.png",
+        "Level": "74",
+        "MaxPrice": "266",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Bell_Pepper",
+            "Carrot",
+            "Tomato",
+            "Cream"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Hot_Dog",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Hot_Dog.png",
+        "Level": "75",
+        "MaxPrice": "370",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Bacon",
+            "Bread",
+            "Tomato_Sauce"
+        ],
+        "Source": "Hot_Dog_Stand",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Coleslaw",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Coleslaw.png",
+        "Level": "75",
+        "MaxPrice": "468",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "56",
+        "Needs": [
+            "Cabbage",
+            "Carrot",
+            "Mayonnaise"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Cotton_Candy",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Cotton_Candy.png",
+        "Level": "75",
+        "MaxPrice": "226",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "White_Sugar",
+            "Strawberry"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Peach",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Peach.png",
+        "Level": "76",
+        "MaxPrice": "100",
+        "Time": [
+            "1 d 6 h"
+        ],
+        "Xp": "20",
+        "Needs": [],
+        "Source": "Peach_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Peach_Tart",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Peach_Tart.png",
+        "Level": "76",
+        "MaxPrice": "435",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "52",
+        "Needs": [
+            "Cream",
+            "Egg",
+            "Peach",
+            "Wheat"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Tofu_Dog",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Tofu_Dog.png",
+        "Level": "76",
+        "MaxPrice": "367",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Lettuce",
+            "Soybean",
+            "Tomato"
+        ],
+        "Source": "Hot_Dog_Stand",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Big_Sushi_Roll",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Big_Sushi_Roll.png",
+        "Level": "76",
+        "MaxPrice": "648",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "77",
+        "Needs": [
+            "Lettuce",
+            "Rice",
+            "Fish_Fillet",
+            "Egg"
+        ],
+        "Source": "Sushi_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Beetroot_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/ff/Beetroot_Salad.png",
+        "Level": "76",
+        "MaxPrice": "234",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "28",
+        "Needs": [
+            "Beetroot",
+            "Goat_Cheese"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Plain_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Plain_Donut.png",
+        "Level": "76",
+        "MaxPrice": "129",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "15",
+        "Needs": [
+            "Milk",
+            "White_Sugar",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Salsa",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/Salsa.png",
+        "Level": "77",
+        "MaxPrice": "252",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Chili_Pepper",
+            "Onion",
+            "Tomato"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Taco",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4d/Taco.png",
+        "Level": "77",
+        "MaxPrice": "396",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "47",
+        "Needs": [
+            "Corn_Bread",
+            "Bacon",
+            "Salsa"
+        ],
+        "Source": "Taco_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Colourful_Omelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Colourful_Omelet.png",
+        "Level": "77",
+        "MaxPrice": "136",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "16",
+        "Needs": [
+            "Egg",
+            "Carrot",
+            "Bell_Pepper",
+            "Cabbage"
+        ],
+        "Source": "Omelet_Station",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Spring_Omelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f2/Spring_Omelet.png",
+        "Level": "77",
+        "MaxPrice": "230",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Egg",
+            "Asparagus",
+            "Butter"
+        ],
+        "Source": "Omelet_Station",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Summer_Rolls",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/74/Summer_Rolls.png",
+        "Level": "78",
+        "MaxPrice": "316",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Rice_Noodles",
+            "Carrot",
+            "Lettuce",
+            "Chili_Pepper"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Orange_Sorbet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/11/Orange_Sorbet.png",
+        "Level": "78",
+        "MaxPrice": "399",
+        "Time": [
+            "3 h 30 min",
+            "2 h 58 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Honey",
+            "Orange"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Corn_Dog",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/15/Corn_Dog.png",
+        "Level": "78",
+        "MaxPrice": "529",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "63",
+        "Needs": [
+            "Bacon",
+            "Corn",
+            "Olive_Oil"
+        ],
+        "Source": "Hot_Dog_Stand",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Potato_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Potato_Soup.png",
+        "Level": "78",
+        "MaxPrice": "255",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Milk",
+            "Onion",
+            "Potato"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Ginger",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png",
+        "Level": "78",
+        "MaxPrice": "28",
+        "Time": [
+            "2 h 30 min"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Ginger"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "11-16"
+    },
+    {
+        "Name": "Sesame_Brittle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Sesame_Brittle.png",
+        "Level": "78",
+        "MaxPrice": "270",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Sesame",
+            "Ginger",
+            "Honey"
+        ],
+        "Source": "Candy_Machine",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Affogato",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Affogato.png",
+        "Level": "78",
+        "MaxPrice": "435",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "56",
+        "Needs": [
+            "Vanilla_Ice_Cream",
+            "Espresso"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Fish_Taco",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Fish_Taco.png",
+        "Level": "79",
+        "MaxPrice": "392",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "47",
+        "Needs": [
+            "Chili_Pepper",
+            "Corn_Bread",
+            "Fish_Fillet",
+            "Lemon"
+        ],
+        "Source": "Taco_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Peach_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Peach_Jam.png",
+        "Level": "79",
+        "MaxPrice": "464",
+        "Time": [
+            "8 h",
+            "6 h 48 min"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Peach"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Lobster_Pasta",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5a/Lobster_Pasta.png",
+        "Level": "79",
+        "MaxPrice": "637",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "76",
+        "Needs": [
+            "Lobster_Tail",
+            "Cream",
+            "Fresh_Pasta",
+            "Tomato"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Cucumber_Sandwich",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Cucumber_Sandwich.png",
+        "Level": "79",
+        "MaxPrice": "464",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Cucumber",
+            "Mayonnaise",
+            "Bread"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Spicy_Fish",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Spicy_Fish.png",
+        "Level": "79",
+        "MaxPrice": "543",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "65",
+        "Needs": [
+            "Fish_Fillet",
+            "Chili_Pepper",
+            "Garlic",
+            "Olive_Oil"
+        ],
+        "Source": "Wok_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Sprinkled_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Sprinkled_Donut.png",
+        "Level": "79",
+        "MaxPrice": "313",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Plain_Donut",
+            "Cacao"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Cheese_Omelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Cheese_Omelet.png",
+        "Level": "79",
+        "MaxPrice": "464",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Egg",
+            "Cheese",
+            "Tomato",
+            "Onion"
+        ],
+        "Source": "Omelet_Station",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Tea_Leaf",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png",
+        "Level": "80",
+        "MaxPrice": "43",
+        "Time": [
+            "6 h 30 min"
+        ],
+        "Xp": "9",
+        "Needs": [
+            "Tea_Leaf"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "8-11"
+    },
+    {
+        "Name": "Green_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Green_Tea.png",
+        "Level": "80",
+        "MaxPrice": "241",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Onion_Dog",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/Onion_Dog.png",
+        "Level": "80",
+        "MaxPrice": "306",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Bacon",
+            "Bread",
+            "Chili_Pepper",
+            "Onion"
+        ],
+        "Source": "Hot_Dog_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Stuffed_Peppers",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Stuffed_Peppers.png",
+        "Level": "80",
+        "MaxPrice": "352",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Bell_Pepper",
+            "Bacon",
+            "Rice",
+            "Cheese"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Milk_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Milk_Tea.png",
+        "Level": "81",
+        "MaxPrice": "190",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "23",
+        "Needs": [
+            "Milk",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Bell_Pepper_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Bell_Pepper_Soup.png",
+        "Level": "81",
+        "MaxPrice": "439",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "52",
+        "Needs": [
+            "Bread",
+            "Olive_Oil",
+            "Chili_Pepper",
+            "Bell_Pepper"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Chocolate_Fondue",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Chocolate_Fondue.png",
+        "Level": "81",
+        "MaxPrice": "626",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "74",
+        "Needs": [
+            "Chocolate",
+            "Strawberry"
+        ],
+        "Source": "Fondue_Pot",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Peony",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png",
+        "Level": "82",
+        "MaxPrice": "36",
+        "Time": [
+            "4 h"
+        ],
+        "Xp": "7",
+        "Needs": [
+            "Peony"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "10-14"
+    },
+    {
+        "Name": "Quesadilla",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Quesadilla.png",
+        "Level": "82",
+        "MaxPrice": "241",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Cheese",
+            "Chili_Pepper",
+            "Wheat"
+        ],
+        "Source": "Taco_Kitchen",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Fruit_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Fruit_Salad.png",
+        "Level": "82",
+        "MaxPrice": "597",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "71",
+        "Needs": [
+            "Blackberry",
+            "Honey",
+            "Orange",
+            "Strawberry"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Crunchy_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/46/Crunchy_Donut.png",
+        "Level": "82",
+        "MaxPrice": "594",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "71",
+        "Needs": [
+            "Plain_Donut",
+            "Cacao",
+            "Peanuts"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Pasta_Carbonara",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cd/Pasta_Carbonara.png",
+        "Level": "83",
+        "MaxPrice": "410",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "49",
+        "Needs": [
+            "Fresh_Pasta",
+            "Bacon",
+            "Egg",
+            "Cheese"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Peach_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/Peach_Ice_Cream.png",
+        "Level": "83",
+        "MaxPrice": "450",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "54",
+        "Needs": [
+            "Cream",
+            "Honey",
+            "Peach"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Honey_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b8/Honey_Tea.png",
+        "Level": "83",
+        "MaxPrice": "313",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Honey",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Broccoli",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png",
+        "Level": "83",
+        "MaxPrice": "21",
+        "Time": [
+            "1 h 30 min"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Broccoli"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "16-24"
+    },
+    {
+        "Name": "Broccoli_Pasta",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Broccoli_Pasta.png",
+        "Level": "83",
+        "MaxPrice": "345",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "41",
+        "Needs": [
+            "Broccoli",
+            "Cheese",
+            "Fresh_Pasta"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Rice_Omelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b2/Rice_Omelet.png",
+        "Level": "83",
+        "MaxPrice": "572",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "68",
+        "Needs": [
+            "Egg",
+            "Tomato_Sauce",
+            "Rice"
+        ],
+        "Source": "Omelet_Station",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Summer_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Summer_Salad.png",
+        "Level": "84",
+        "MaxPrice": "554",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "66",
+        "Needs": [
+            "Goat_Cheese",
+            "Onion",
+            "Peach",
+            "Tomato"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Grapes",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png",
+        "Level": "84",
+        "MaxPrice": "32",
+        "Time": [
+            "3 h"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Grapes"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "11-15"
+    },
+    {
+        "Name": "Grape_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Grape_Juice.png",
+        "Level": "84",
+        "MaxPrice": "104",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Grapes"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-6"
+    },
+    {
+        "Name": "Onion_Melt",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Onion_Melt.png",
+        "Level": "84",
+        "MaxPrice": "417",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Corn_Bread",
+            "Onion",
+            "Cheese"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Honey_Soap",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Honey_Soap.png",
+        "Level": "84",
+        "MaxPrice": "327",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "39",
+        "Needs": [
+            "Goat_Milk",
+            "Cacao",
+            "Honeycomb"
+        ],
+        "Source": "Bath_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Lemon_Lotion",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Lemon_Lotion.png",
+        "Level": "84",
+        "MaxPrice": "403",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Olive_Oil",
+            "Lemon"
+        ],
+        "Source": "Bath_Kiosk",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Colorful_Candles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/19/Colorful_Candles.png",
+        "Level": "84",
+        "MaxPrice": "324",
+        "Time": [
+            "1 h 50 min",
+            "1 h 33 min"
+        ],
+        "Xp": "39",
+        "Needs": [
+            "Beeswax",
+            "Raspberry",
+            "Carrot"
+        ],
+        "Source": "Candle_Maker",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Mint",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png",
+        "Level": "85",
+        "MaxPrice": "32",
+        "Time": [
+            "3 h"
+        ],
+        "Xp": "6",
+        "Needs": [
+            "Mint"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "11-16"
+    },
+    {
+        "Name": "Grape_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Grape_Jam.png",
+        "Level": "85",
+        "MaxPrice": "162",
+        "Time": [
+            "6 h 30 min",
+            "5 h 31 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Grapes"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Mint_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png",
+        "Level": "85",
+        "MaxPrice": "288",
+        "Time": [
+            "2 h 15 min",
+            "1 h 54 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Cream",
+            "White_Sugar",
+            "Mint",
+            "Cacao"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Flower_Crown",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Flower_Crown.png",
+        "Level": "86",
+        "MaxPrice": "331",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "40",
+        "Needs": [
+            "Peony",
+            "Cotton"
+        ],
+        "Source": "Hat_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Lemon_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/28/Lemon_Tea.png",
+        "Level": "86",
+        "MaxPrice": "241",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "29",
+        "Needs": [
+            "Lemon",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Bacon_Fondue",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Bacon_Fondue.png",
+        "Level": "86",
+        "MaxPrice": "507",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "60",
+        "Needs": [
+            "Bacon",
+            "Broccoli",
+            "Bell_Pepper",
+            "Olive_Oil"
+        ],
+        "Source": "Fondue_Pot",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Peanut_Noodles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Peanut_Noodles.png",
+        "Level": "86",
+        "MaxPrice": "597",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "80",
+        "Needs": [
+            "Ginger",
+            "Rice_Noodles",
+            "Soy_Sauce",
+            "Peanuts"
+        ],
+        "Source": "Wok_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Gingerbread_Cookie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Gingerbread_Cookie.png",
+        "Level": "86",
+        "MaxPrice": "273",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "33",
+        "Needs": [
+            "Wheat",
+            "Butter",
+            "Syrup",
+            "Ginger"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Cream_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cream_Donut.png",
+        "Level": "86",
+        "MaxPrice": "230",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Plain_Donut",
+            "Cream",
+            "Brown_Sugar"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "3"
+    },
+    {
+        "Name": "Nachos",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Nachos.png",
+        "Level": "87",
+        "MaxPrice": "432",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "52",
+        "Needs": [
+            "Cheese",
+            "Corn",
+            "Salsa"
+        ],
+        "Source": "Taco_Kitchen",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Spicy_Pasta",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Spicy_Pasta.png",
+        "Level": "87",
+        "MaxPrice": "576",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "69",
+        "Needs": [
+            "Fresh_Pasta",
+            "Tomato_Sauce",
+            "Chili_Pepper",
+            "Onion"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Broccoli_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b6/Broccoli_Soup.png",
+        "Level": "87",
+        "MaxPrice": "237",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "28",
+        "Needs": [
+            "Broccoli",
+            "Onion",
+            "Potato"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Bacon_Fries",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Bacon_Fries.png",
+        "Level": "87",
+        "MaxPrice": "302",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Chili_Pepper",
+            "Bacon",
+            "Potato",
+            "Garlic"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Potato_Omelet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ca/Potato_Omelet.png",
+        "Level": "87",
+        "MaxPrice": "270",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Egg",
+            "Bacon",
+            "Potato"
+        ],
+        "Source": "Omelet_Station",
+        "PerBoatCrate": "?"
+    },
+    {
+        "Name": "Mixed_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6b/Mixed_Smoothie.png",
+        "Level": "88",
+        "MaxPrice": "504",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "60",
+        "Needs": [
+            "Lemon",
+            "Orange",
+            "Peach"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Banana",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Banana.png",
+        "Level": "88",
+        "MaxPrice": "104",
+        "Time": [
+            "27 h"
+        ],
+        "Xp": "20",
+        "Needs": [],
+        "Source": "Banana_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Iced_Banana_Latte",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Iced_Banana_Latte.png",
+        "Level": "88",
+        "MaxPrice": "277",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "33",
+        "Needs": [
+            "Banana",
+            "Coffee_Bean",
+            "Milk"
+        ],
+        "Source": "Coffee_Kiosk",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Apple_Ginger_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Apple_Ginger_Tea.png",
+        "Level": "88",
+        "MaxPrice": "169",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "20",
+        "Needs": [
+            "Ginger",
+            "Apple",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "4"
+    },
+    {
+        "Name": "Bacon_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Bacon_Donut.png",
+        "Level": "88",
+        "MaxPrice": "388",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "46",
+        "Needs": [
+            "Plain_Donut",
+            "Bacon",
+            "Syrup"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Passion_Fruit",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png",
+        "Level": "88",
+        "MaxPrice": "18",
+        "Time": [
+            "1 h"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Passion_Fruit"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "16-24"
+    },
+    {
+        "Name": "Passion_Fruit_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Passion_Fruit_Juice.png",
+        "Level": "88",
+        "MaxPrice": "64",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Passion_Fruit"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "7-9"
+    },
+    {
+        "Name": "Orange_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Orange_Tea.png",
+        "Level": "89",
+        "MaxPrice": "255",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Orange",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Fruit_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/47/Fruit_Cake.png",
+        "Level": "89",
+        "MaxPrice": "450",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "54",
+        "Needs": [
+            "Cherry",
+            "Grapes",
+            "Orange",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Mushroom",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png",
+        "Level": "89",
+        "MaxPrice": "10",
+        "Time": [
+            "20 min"
+        ],
+        "Xp": "2",
+        "Needs": [
+            "Mushroom"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "33-50"
+    },
+    {
+        "Name": "Mushroom_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Mushroom_Salad.png",
+        "Level": "89",
+        "MaxPrice": "216",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Mushroom",
+            "Lettuce",
+            "Potato",
+            "Bacon"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Tofu_Stir_Fry",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/db/Tofu_Stir_Fry.png",
+        "Level": "89",
+        "MaxPrice": "306",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Soybean",
+            "Onion",
+            "Broccoli",
+            "Sesame"
+        ],
+        "Source": "Wok_Kitchen",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Candy_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Candy_Bouquet.png",
+        "Level": "90",
+        "MaxPrice": "554",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "66",
+        "Needs": [
+            "Peony",
+            "Toffee",
+            "Caramel_Apple"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Eggplant",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png",
+        "Level": "90",
+        "MaxPrice": "14",
+        "Time": [
+            "40 min"
+        ],
+        "Xp": "3",
+        "Needs": [
+            "Eggplant"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "22-30"
+    },
+    {
+        "Name": "Grilled_Eggplant",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Grilled_Eggplant.png",
+        "Level": "90",
+        "MaxPrice": "324",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "39",
+        "Needs": [
+            "Eggplant",
+            "Salsa"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Banana_Bread",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Banana_Bread.png",
+        "Level": "91",
+        "MaxPrice": "424",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Banana",
+            "Egg",
+            "Grapes",
+            "Wheat"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Cheese_Fondue",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Cheese_Fondue.png",
+        "Level": "91",
+        "MaxPrice": "493",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "59",
+        "Needs": [
+            "Potato_Bread",
+            "Cheese",
+            "Mushroom",
+            "Tomato"
+        ],
+        "Source": "Fondue_Pot",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Hand_Pies",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Hand_Pies.png",
+        "Level": "91",
+        "MaxPrice": "295",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "35",
+        "Needs": [
+            "Apple_Jam",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Pickles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Pickles.png",
+        "Level": "91",
+        "MaxPrice": "270",
+        "Time": [
+            "4 h",
+            "3 h 24 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Cucumber",
+            "Onion",
+            "Lemon"
+        ],
+        "Source": "Preservation_Station",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Watermelon",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png",
+        "Level": "92",
+        "MaxPrice": "39",
+        "Time": [
+            "5 h"
+        ],
+        "Xp": "8",
+        "Needs": [
+            "Watermelon"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "8-12"
+    },
+    {
+        "Name": "Iced_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Iced_Tea.png",
+        "Level": "92",
+        "MaxPrice": "252",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Peach",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Goat_Cheese_Toast",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Goat_Cheese_Toast.png",
+        "Level": "92",
+        "MaxPrice": "302",
+        "Time": [
+            "50 min",
+            "42 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Bread",
+            "Goat_Cheese",
+            "Grapes"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Watermelon_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Watermelon_Juice.png",
+        "Level": "92",
+        "MaxPrice": "108",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Watermelon"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "4-5"
+    },
+    {
+        "Name": "Birthday_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/23/Birthday_Bouquet.png",
+        "Level": "92",
+        "MaxPrice": "349",
+        "Time": [
+            "20 min",
+            "17 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Cherry_Juice",
+            "Peony",
+            "Lily",
+            "Indigo"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Passion_Fruit_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Passion_Fruit_Pie.png",
+        "Level": "92",
+        "MaxPrice": "111",
+        "Time": [
+            "50 min",
+            "42 min"
+        ],
+        "Xp": "13",
+        "Needs": [
+            "Passion_Fruit",
+            "Wheat",
+            "Egg"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "4-5"
+    },
+    {
+        "Name": "Soft_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Soft_Bouquet.png",
+        "Level": "93",
+        "MaxPrice": "298",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "36",
+        "Needs": [
+            "Peony",
+            "Cotton",
+            "Cotton_Fabric"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Black_Sesame_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3c/Black_Sesame_Smoothie.png",
+        "Level": "93",
+        "MaxPrice": "313",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Sesame",
+            "Banana",
+            "Goat_Milk"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Exfoliating_Soap",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Exfoliating_Soap.png",
+        "Level": "93",
+        "MaxPrice": "363",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "43",
+        "Needs": [
+            "Cacao",
+            "Coffee_Bean",
+            "Raspberry"
+        ],
+        "Source": "Bath_Kiosk",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Filled_Donut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Filled_Donut.png",
+        "Level": "93",
+        "MaxPrice": "403",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Plain_Donut",
+            "Raspberry_Jam"
+        ],
+        "Source": "Donut_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Plum",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Plum.png",
+        "Level": "94",
+        "MaxPrice": "82",
+        "Time": [
+            "1 d"
+        ],
+        "Xp": "16",
+        "Needs": [],
+        "Source": "Plum_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Banana_Pancakes",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Banana_Pancakes.png",
+        "Level": "94",
+        "MaxPrice": "352",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Banana",
+            "Blackberry",
+            "Cream",
+            "Wheat"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Plum_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Plum_Jam.png",
+        "Level": "94",
+        "MaxPrice": "385",
+        "Time": [
+            "5 h",
+            "4 h 15 min"
+        ],
+        "Xp": "46",
+        "Needs": [
+            "Plum"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Clay",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png",
+        "Level": "94",
+        "MaxPrice": "18",
+        "Time": [
+            "1 h 50 min"
+        ],
+        "Xp": "5",
+        "Needs": [
+            "Clay"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "13-19"
+    },
+    {
+        "Name": "Tea_Pot",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6e/Tea_Pot.png",
+        "Level": "94",
+        "MaxPrice": "219",
+        "Time": [
+            "3 h 40 min",
+            "3 h 7 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Clay",
+            "Coffee_Bean",
+            "Gold_Ore"
+        ],
+        "Source": "Pottery_Studio",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Floral_Candle",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Floral_Candle.png",
+        "Level": "95",
+        "MaxPrice": "442",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "53",
+        "Needs": [
+            "Beeswax",
+            "Peony",
+            "Sunflower",
+            "Indigo"
+        ],
+        "Source": "Candle_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chocolate_Roll",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Chocolate_Roll.png",
+        "Level": "95",
+        "MaxPrice": "604",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "72",
+        "Needs": [
+            "Cacao",
+            "Cream",
+            "Wheat",
+            "Mint"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Canned_Fish",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Canned_Fish.png",
+        "Level": "95",
+        "MaxPrice": "471",
+        "Time": [
+            "3 h 40 min",
+            "3 h 7 min"
+        ],
+        "Xp": "56",
+        "Needs": [
+            "Fish_Fillet",
+            "Chili_Pepper",
+            "Olive_Oil"
+        ],
+        "Source": "Preservation_Station",
+        "PerBoatCrate": "??"
+    },
+    {
+        "Name": "Chickpea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png",
+        "Level": "95",
+        "MaxPrice": "18",
+        "Time": [
+            "1 h"
+        ],
+        "Xp": "4",
+        "Needs": [
+            "Chickpea"
+        ],
+        "Source": "Farm",
+        "PerBoatCrate": "16-24"
+    },
+    {
+        "Name": "Hummus",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/78/Hummus.png",
+        "Level": "95",
+        "MaxPrice": "277",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "33",
+        "Needs": [
+            "Chickpea",
+            "Lemon",
+            "Garlic"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Banana_Split",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/bd/Banana_Split.png",
+        "Level": "96",
+        "MaxPrice": "403",
+        "Time": [
+            "3 h 30 min",
+            "2 h 58 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Banana",
+            "Cherry",
+            "Cream"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Fish_Skewer",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Fish_Skewer.png",
+        "Level": "96",
+        "MaxPrice": "176",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "21",
+        "Needs": [
+            "Fish_Fillet",
+            "Mushroom",
+            "Ginger",
+            "Sesame"
+        ],
+        "Source": "BBQ_Grill",
+        "PerBoatCrate": "2-8"
+    },
+    {
+        "Name": "Passion_Fruit_Jam",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Passion_Fruit_Jam.png",
+        "Level": "96",
+        "MaxPrice": "118",
+        "Time": [
+            "5 h 20 min",
+            "4 h 32 min"
+        ],
+        "Xp": "14",
+        "Needs": [
+            "Passion_Fruit"
+        ],
+        "Source": "Jam_Maker",
+        "PerBoatCrate": "4"
+    },
+    {
+        "Name": "Potted_Plant",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a1/Potted_Plant.png",
+        "Level": "96",
+        "MaxPrice": "151",
+        "Time": [
+            "3 h 40 min",
+            "3 h 7 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Clay",
+            "Sunflower"
+        ],
+        "Source": "Pottery_Studio",
+        "PerBoatCrate": "3-4"
+    },
+    {
+        "Name": "Mint_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Tea.png",
+        "Level": "97",
+        "MaxPrice": "255",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "31",
+        "Needs": [
+            "Tea_Leaf",
+            "Mint",
+            "Watermelon"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Mushroom_Pot_Pie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Mushroom_Pot_Pie.png",
+        "Level": "97",
+        "MaxPrice": "162",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "19",
+        "Needs": [
+            "Mushroom",
+            "Cabbage",
+            "Wheat",
+            "Egg"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-3"
+    },
+    {
+        "Name": "Mango",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Mango.png",
+        "Level": "97",
+        "MaxPrice": "100",
+        "Time": [
+            "1 d 8 h"
+        ],
+        "Xp": "20",
+        "Needs": [],
+        "Source": "Mango_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Mango_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Mango_Juice.png",
+        "Level": "97",
+        "MaxPrice": "230",
+        "Time": [
+            "50 min",
+            "42 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Mango"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Flower_Pendant",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Flower_Pendant.png",
+        "Level": "98",
+        "MaxPrice": "698",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "83",
+        "Needs": [
+            "Peony",
+            "Platinum_Bar",
+            "Gold_Bar"
+        ],
+        "Source": "Jeweler",
+        "PerBoatCrate": "N/A"
+    },
+    {
+        "Name": "Chili_Poppers",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Chili_Poppers.png",
+        "Level": "98",
+        "MaxPrice": "406",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "48",
+        "Needs": [
+            "Chili_Pepper",
+            "Wheat",
+            "Bacon",
+            "Cheese"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Falafel",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Falafel.png",
+        "Level": "98",
+        "MaxPrice": "226",
+        "Time": [
+            "55 min",
+            "46 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Chili_Pepper",
+            "Chickpea",
+            "Onion",
+            "Garlic"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Kimchi",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Kimchi.png",
+        "Level": "98",
+        "MaxPrice": "219",
+        "Time": [
+            "5 h",
+            "4 h 15 min"
+        ],
+        "Xp": "26",
+        "Needs": [
+            "Cabbage",
+            "Ginger",
+            "Chili_Pepper",
+            "Garlic"
+        ],
+        "Source": "Preservation_Station",
+        "PerBoatCrate": "??"
+    },
+    {
+        "Name": "Eggplant_Parmesan",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Eggplant_Parmesan.png",
+        "Level": "99",
+        "MaxPrice": "442",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "53",
+        "Needs": [
+            "Eggplant",
+            "Cheese",
+            "Tomato_Sauce"
+        ],
+        "Source": "Pie_Oven",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Honey_Face_Mask",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Honey_Face_Mask.png",
+        "Level": "99",
+        "MaxPrice": "320",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Egg",
+            "Honey",
+            "Lemon"
+        ],
+        "Source": "Bath_Kiosk",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Clay_Mug",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Clay_Mug.png",
+        "Level": "99",
+        "MaxPrice": "212",
+        "Time": [
+            "3 h 20 min",
+            "2 h 50 min"
+        ],
+        "Xp": "25",
+        "Needs": [
+            "Clay",
+            "Indigo",
+            "Peony"
+        ],
+        "Source": "Pottery_Studio",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Rich_Fudge",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Rich_Fudge.png",
+        "Level": "99",
+        "MaxPrice": "644",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "77",
+        "Needs": [
+            "Cacao",
+            "Butter",
+            "White_Sugar"
+        ],
+        "Source": "Fudge_Shop",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Cocoa_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Cocoa_Smoothie.png",
+        "Level": "100",
+        "MaxPrice": "511",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "61",
+        "Needs": [
+            "Banana",
+            "Cacao",
+            "Milk"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Fried_Candy_Bar",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Fried_Candy_Bar.png",
+        "Level": "100",
+        "MaxPrice": "658",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "87",
+        "Needs": [
+            "Cacao",
+            "Cookie",
+            "Peanuts"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Tart_Dressing",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/Tart_Dressing.png",
+        "Level": "100",
+        "MaxPrice": "288",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Passion_Fruit",
+            "Chili_Pepper",
+            "Honey"
+        ],
+        "Source": "Sauce_Maker",
+        "PerBoatCrate": "2-4"
+    },
+    {
+        "Name": "Tropical_Fondue",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Tropical_Fondue.png",
+        "Level": "100",
+        "MaxPrice": "417",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "White_Sugar",
+            "Cream",
+            "Pineapple",
+            "Mango"
+        ],
+        "Source": "Fondue_Pot",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Mushroom_Pasta",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Mushroom_Pasta.png",
+        "Level": "101",
+        "MaxPrice": "280",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "33",
+        "Needs": [
+            "Mushroom",
+            "Fresh_Pasta",
+            "Goat_Milk"
+        ],
+        "Source": "Pasta_Kitchen",
+        "PerBoatCrate": "2-3"
+    },
+    {
+        "Name": "Coconut",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Coconut.png",
+        "Level": "101",
+        "MaxPrice": "108",
+        "Time": [
+            "1 d 12 h"
+        ],
+        "Xp": "21",
+        "Needs": [],
+        "Source": "Coconut_Tree",
+        "PerBoatCrate": "4-5"
+    },
+    {
+        "Name": "Macaroon",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Macaroon.png",
+        "Level": "101",
+        "MaxPrice": "421",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Cacao",
+            "Coconut",
+            "White_Sugar"
+        ],
+        "Source": "Bakery",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Plum_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c5/Plum_Smoothie.png",
+        "Level": "102",
+        "MaxPrice": "522",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "62",
+        "Needs": [
+            "Plum",
+            "Grapes",
+            "Mint",
+            "Honey"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Dried_Fruit",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Dried_Fruit.png",
+        "Level": "102",
+        "MaxPrice": "266",
+        "Time": [
+            "3 h",
+            "2 h 33 min"
+        ],
+        "Xp": "32",
+        "Needs": [
+            "Grapes",
+            "Raspberry",
+            "Strawberry",
+            "Orange"
+        ],
+        "Source": "Preservation_Station",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Mint_Fudge",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Fudge.png",
+        "Level": "102",
+        "MaxPrice": "522",
+        "Time": [
+            "2 h 30 min",
+            "2 h 7 min"
+        ],
+        "Xp": "62",
+        "Needs": [
+            "Butter",
+            "Cacao",
+            "White_Sugar",
+            "Mint"
+        ],
+        "Source": "Fudge_Shop",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Coconut_Ice_Cream",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d9/Coconut_Ice_Cream.png",
+        "Level": "102",
+        "MaxPrice": "320",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Coconut",
+            "Syrup"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Samosa",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Samosa.png",
+        "Level": "103",
+        "MaxPrice": "223",
+        "Time": [
+            "1 h 15 min",
+            "1 h 3 min"
+        ],
+        "Xp": "27",
+        "Needs": [
+            "Chickpea",
+            "Wheat",
+            "Chili_Pepper",
+            "Potato"
+        ],
+        "Source": "Deep_Fryer",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Plain_Yogurt",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Plain_Yogurt.png",
+        "Level": "103",
+        "MaxPrice": "234",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "28",
+        "Needs": [
+            "Milk",
+            "Cream"
+        ],
+        "Source": "Yogurt_Maker",
+        "PerBoatCrate": "3"
+    },
+    {
+        "Name": "Mushroom_Soup",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Mushroom_Soup.png",
+        "Level": "104",
+        "MaxPrice": "176",
+        "Time": [
+            "1 h 20 min",
+            "1 h 8 min"
+        ],
+        "Xp": "21",
+        "Needs": [
+            "Mushroom",
+            "Milk",
+            "Onion"
+        ],
+        "Source": "Soup_Kitchen",
+        "PerBoatCrate": "4"
+    },
+    {
+        "Name": "Chili_Fudge",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Chili_Fudge.png",
+        "Level": "104",
+        "MaxPrice": "540",
+        "Time": [
+            "2 h 50 min",
+            "2 h 25 min"
+        ],
+        "Xp": "64",
+        "Needs": [
+            "Butter",
+            "Cacao",
+            "White_Sugar",
+            "Chili_Pepper"
+        ],
+        "Source": "Fudge_Shop",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Tropical_Smoothie",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3e/Tropical_Smoothie.png",
+        "Level": "104",
+        "MaxPrice": "475",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "57",
+        "Needs": [
+            "Coconut",
+            "Banana",
+            "Passion_Fruit",
+            "Mango"
+        ],
+        "Source": "Smoothie_Mixer",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Guava",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png",
+        "Level": "104",
+        "MaxPrice": "111",
+        "Time": [
+            "1 d 10 h"
+        ],
+        "Xp": "22",
+        "Needs": [],
+        "Source": "Guava_Tree",
+        "PerBoatCrate": "4"
+    },
+    {
+        "Name": "Guava_Juice",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Guava_Juice.png",
+        "Level": "104",
+        "MaxPrice": "252",
+        "Time": [
+            "55 min",
+            "46 min"
+        ],
+        "Xp": "30",
+        "Needs": [
+            "Guava"
+        ],
+        "Source": "Juice_Press",
+        "PerBoatCrate": "3-9"
+    },
+    {
+        "Name": "Guava_Compote",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Guava_Compote.png",
+        "Level": "104",
+        "MaxPrice": "421",
+        "Time": [
+            "4 h 20 min",
+            "3 h 41 min"
+        ],
+        "Xp": "50",
+        "Needs": [
+            "Guava",
+            "Lemon",
+            "White_Sugar"
+        ],
+        "Source": "Preservation_Station",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Strawberry_Yogurt",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Strawberry_Yogurt.png",
+        "Level": "105",
+        "MaxPrice": "529",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "63",
+        "Needs": [
+            "Plain_Yogurt",
+            "Strawberry_Jam"
+        ],
+        "Source": "Yogurt_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Veggie_Bouquet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Veggie_Bouquet.png",
+        "Level": "106",
+        "MaxPrice": "352",
+        "Time": [
+            "15 min",
+            "12 min"
+        ],
+        "Xp": "42",
+        "Needs": [
+            "Broccoli",
+            "Tomato",
+            "Mushroom",
+            "Cotton_Fabric"
+        ],
+        "Source": "Flower_Shop",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chickpea_Stew",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Chickpea_Stew.png",
+        "Level": "106",
+        "MaxPrice": "284",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Coconut",
+            "Tomato",
+            "Chickpea"
+        ],
+        "Source": "Stew_Pot",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Fruit_Sorbet",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Fruit_Sorbet.png",
+        "Level": "106",
+        "MaxPrice": "518",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "62",
+        "Needs": [
+            "Guava",
+            "Passion_Fruit",
+            "Mango",
+            "White_Sugar"
+        ],
+        "Source": "Ice_Cream_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Pomegranate",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png",
+        "Level": "107",
+        "MaxPrice": "111",
+        "Time": [
+            "1 d 3 h"
+        ],
+        "Xp": "22",
+        "Needs": [],
+        "Source": "Pomegranate_Tree",
+        "PerBoatCrate": "4-6"
+    },
+    {
+        "Name": "Pomegranate_Tea",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Pomegranate_Tea.png",
+        "Level": "107",
+        "MaxPrice": "313",
+        "Time": [
+            "34 min",
+            "29 min"
+        ],
+        "Xp": "37",
+        "Needs": [
+            "Pomegranate",
+            "Tea_Leaf"
+        ],
+        "Source": "Tea_Stand",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Lemon_Fudge",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Lemon_Fudge.png",
+        "Level": "108",
+        "MaxPrice": "590",
+        "Time": [
+            "1 h 50 min",
+            "1 h 33 min"
+        ],
+        "Xp": "70",
+        "Needs": [
+            "Butter",
+            "Lemon",
+            "White_Sugar",
+            "Milk"
+        ],
+        "Source": "Fudge_Shop",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Pomegranate_Cake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Pomegranate_Cake.png",
+        "Level": "108",
+        "MaxPrice": "316",
+        "Time": [
+            "2 h 40 min",
+            "2 h 16 min"
+        ],
+        "Xp": "38",
+        "Needs": [
+            "Pomegranate",
+            "Egg",
+            "Cream",
+            "Wheat"
+        ],
+        "Source": "Cake_Oven",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Hummus_Wrap",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/31/Hummus_Wrap.png",
+        "Level": "109",
+        "MaxPrice": "374",
+        "Time": [
+            "30 min",
+            "25 min"
+        ],
+        "Xp": "45",
+        "Needs": [
+            "Bread",
+            "Lettuce",
+            "Hummus"
+        ],
+        "Source": "Sandwich_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Tropical_Yogurt",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Tropical_Yogurt.png",
+        "Level": "109",
+        "MaxPrice": "457",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "54",
+        "Needs": [
+            "Plain_Yogurt",
+            "Raspberry",
+            "Passion_Fruit",
+            "Mango"
+        ],
+        "Source": "Yogurt_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Chili_Stew",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Chili_Stew.png",
+        "Level": "109",
+        "MaxPrice": "370",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "44",
+        "Needs": [
+            "Chili_Pepper",
+            "Bacon",
+            "Onion",
+            "Cream"
+        ],
+        "Source": "Stew_Pot",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Plain_Cupcake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Plain_Cupcake.png",
+        "Level": "109",
+        "MaxPrice": "280",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "34",
+        "Needs": [
+            "Milk",
+            "White_Sugar",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Cupcake_Maker",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Guava_Cupcake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Guava_Cupcake.png",
+        "Level": "109",
+        "MaxPrice": "583",
+        "Time": [
+            "1 h 10 min",
+            "59 min"
+        ],
+        "Xp": "70",
+        "Needs": [
+            "Plain_Cupcake",
+            "Guava",
+            "Cream"
+        ],
+        "Source": "Cupcake_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Rice_Ball",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Rice_Ball.png",
+        "Level": "110",
+        "MaxPrice": "464",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "55",
+        "Needs": [
+            "Rice",
+            "Sesame",
+            "Plum"
+        ],
+        "Source": "Sushi_Bar",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Peanut_Fudge",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Peanut_Fudge.png",
+        "Level": "111",
+        "MaxPrice": "1141",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "136",
+        "Needs": [
+            "Butter",
+            "Cacao",
+            "White_Sugar",
+            "Peanuts"
+        ],
+        "Source": "Fudge_Shop",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Tropical_Cupcake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Tropical_Cupcake.png",
+        "Level": "112",
+        "MaxPrice": "572",
+        "Time": [
+            "1 h 30 min",
+            "1 h 16 min"
+        ],
+        "Xp": "68",
+        "Needs": [
+            "Plain_Cupcake",
+            "Pineapple",
+            "Coconut"
+        ],
+        "Source": "Cupcake_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Winter_Stew",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Winter_Stew.png",
+        "Level": "112",
+        "MaxPrice": "295",
+        "Time": [
+            "2 h 20 min",
+            "1 h 59 min"
+        ],
+        "Xp": "35",
+        "Needs": [
+            "Bacon",
+            "Potato",
+            "Onion",
+            "Mushroom"
+        ],
+        "Source": "Stew_Pot",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Cookie_Cupcake",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/86/Cookie_Cupcake.png",
+        "Level": "114",
+        "MaxPrice": "712",
+        "Time": [
+            "2 h",
+            "1 h 42 min"
+        ],
+        "Xp": "85",
+        "Needs": [
+            "Plain_Cupcake",
+            "Cream",
+            "Cookie",
+            "Cacao"
+        ],
+        "Source": "Cupcake_Maker",
+        "PerBoatCrate": "1-2"
+    },
+    {
+        "Name": "Plain_Waffles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Plain_Waffles.png",
+        "Level": "114",
+        "MaxPrice": "198",
+        "Time": [
+            "25 min",
+            "21 min"
+        ],
+        "Xp": "24",
+        "Needs": [
+            "White_Sugar",
+            "Egg",
+            "Wheat"
+        ],
+        "Source": "Waffle_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Berry_Waffles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/29/Berry_Waffles.png",
+        "Level": "114",
+        "MaxPrice": "604",
+        "Time": [
+            "35 min",
+            "29 min"
+        ],
+        "Xp": "72",
+        "Needs": [
+            "Plain_Waffles",
+            "Syrup",
+            "Raspberry",
+            "Blackberry"
+        ],
+        "Source": "Waffle_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Orange_Salad",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/bb/Orange_Salad.png",
+        "Level": "117",
+        "MaxPrice": "558",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "66",
+        "Needs": [
+            "Cheese",
+            "Lettuce",
+            "Pomegranate",
+            "Orange"
+        ],
+        "Source": "Salad_Bar",
+        "PerBoatCrate": "2"
+    },
+    {
+        "Name": "Chocolate_Waffles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4d/Chocolate_Waffles.png",
+        "Level": "117",
+        "MaxPrice": "637",
+        "Time": [
+            "40 min",
+            "34 min"
+        ],
+        "Xp": "76",
+        "Needs": [
+            "Plain_Waffles",
+            "Cacao",
+            "Strawberry",
+            "Banana"
+        ],
+        "Source": "Waffle_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Breakfast_Waffles",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Breakfast_Waffles.png",
+        "Level": "119",
+        "MaxPrice": "424",
+        "Time": [
+            "45 min",
+            "38 min"
+        ],
+        "Xp": "51",
+        "Needs": [
+            "Plain_Waffles",
+            "Bacon",
+            "Egg",
+            "Asparagus"
+        ],
+        "Source": "Waffle_Maker",
+        "PerBoatCrate": "1"
+    },
+    {
+        "Name": "Breakfast_Bowl",
+        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Breakfast_Bowl.png",
+        "Level": "119",
+        "MaxPrice": "604",
+        "Time": [
+            "1 h",
+            "51 min"
+        ],
+        "Xp": "54",
+        "Needs": [
+            "Plain_Yogurt",
+            "Oats",
+            "Honey",
+            "Blackberry"
+        ],
+        "Source": "Yogurt_Maker",
+        "PerBoatCrate": "?"
+    }
+]
