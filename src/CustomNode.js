@@ -1,3 +1,4 @@
+import React from 'react';
 import { Handle, Position } from 'reactflow';
 
 const CustomNode = ({ data }) => {
@@ -5,7 +6,12 @@ const CustomNode = ({ data }) => {
     return (
         <>
             <div>
-                <img src={data.itemImageUrl} height={"100px"} alt={data.label} />
+                <img 
+                    src={data.itemImageUrl} 
+                    height={"100px"} 
+                    alt={data.itemName} 
+                    style={{cursor: "pointer"}}
+                />
             </div>
             { !data.startNode ? 
                 <Handle  

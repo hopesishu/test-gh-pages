@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ReactFlow, {
     MiniMap,
     Controls,
@@ -6,14 +6,16 @@ import ReactFlow, {
     useNodesState,
     useEdgesState,
 } from 'reactflow';
+import { TextField } from '@mui/material';
 
 import 'reactflow/dist/style.css';
 import CustomNode from "./CustomNode.js";
-import CustomEdge from './CustomEdge.js';
+import CustomEdge from "./CustomEdge.js";
+import CustomCard from "./CustomCard.js";
 import * as Utils from "./utils.js"
 
 const nodeTypes = { customNode: CustomNode };
-const edgeTypes = { customEdge: CustomEdge }
+const edgeTypes = { customEdge: CustomEdge };
 
 const createNode = (list) => {
 	let dynamicNodes = [];
@@ -38,7 +40,7 @@ const createNode = (list) => {
 		nodeAttributes["type"] = "customNode";
 		nodeAttributes["position"] = { x: positionX, y: positionY }; 
 		nodeAttributes["data"] = {
-			label: itemName,
+			itemName: itemName,
 			itemImageUrl: itemImageUrl, 
 			startNode: isStartNode,
 			endNode: isEndNode
@@ -84,33 +86,49 @@ const createEdge = (list) => {
 }
 
 export default function App() {
-	var tieredList = Utils.getTieredList("Spicy_Pasta");
+	var tieredList = Utils.getTieredList("Fish_Burger");
 	var dynamicNodes = createNode(tieredList);
 	var dynamicEdges = createEdge(tieredList);
 
 	const [nodes, setNodes, onNodesChange] = useNodesState(dynamicNodes);
 	const [edges, setEdges, onEdgesChange] = useEdgesState(dynamicEdges);
-
-	const handleChange = (event) => {
-		console.log(event);
-	}
+	const [cardItemObject, setCardItemObject] = useState(Utils.getItemObject(nodes[0].data.itemName));
+	const [textVieldValue, setTextFieldValue] = useState(dynamicNodes[0].data.itemName);
 
 	const handleKeyDown = (event) => {
         if (event.keyCode === 13) {
-			var requestedItem = event.target.value;
+			var requestedItem = event.target.value.trim();
+			var requestedItemObject = Utils.getItemObject(requestedItem);
 			tieredList = Utils.getTieredList(requestedItem);
-			dynamicNodes = createNode(tieredList);
-			dynamicEdges = createEdge(tieredList);
-			
-			setNodes(dynamicNodes);
-			setEdges(dynamicEdges);
+			if (tieredList) {
+				dynamicNodes = createNode(tieredList);
+				dynamicEdges = createEdge(tieredList);
+				
+				setNodes(dynamicNodes);
+				setEdges(dynamicEdges);
+				setCardItemObject(requestedItemObject);
+			} else {
+				console.log("There is no such item");
+			}
         }
 	}
 
-  return (
-		<>
-			<div style={{ width: "70vw", height: "100vh", float: "left" }} >
+	const handleNodeClick = (event) => {
+		const itemName = event.target.alt;
+		const itemObject = Utils.getItemObject(itemName);
+		setCardItemObject(itemObject);
+	}
+
+	// const handleErrorTextFieldValue = (event) => {
+	// 	const textFieldValue = event.target.value.trim();
+	// 	if 
+	// }
+
+  	return (
+		<div style={{display: "flex", flexDirection: "row"}}>
+			<div style={{ width: "70vw", height: "100vh" }} >
 				<ReactFlow
+					onNodeClick={handleNodeClick}
 					nodes={nodes}
 					edges={edges}
 					onNodesChange={onNodesChange}
@@ -119,19 +137,23 @@ export default function App() {
 					edgeTypes={edgeTypes}
 					fitView
 				>
-
 					<Controls />
 					<MiniMap />
 					<Background variant="dots" gap={12} size={1} color={"grey"}/>
 				</ReactFlow>
 			</div>
-			<div style={{ width: "30vw", height: "100vh", float: "right" }}>
-				<input 
-					placeholder="Search"
-					onChange={handleChange}
+			<div style={{ width: "30vw", height: "100vh" }}>
+				<TextField 
+					variant="outlined"
+					value={textVieldValue}
+					size="small"
+					margin="normal"
+					onChange={(e) => setTextFieldValue(e.target.value)}
 					onKeyDown={handleKeyDown}
 				/>
+
+				<CustomCard data={cardItemObject} />
 			</div>
-		</>
+		</div>
 	);
 }
