@@ -6,12 +6,18 @@ import ReactFlow, {
     useNodesState,
     useEdgesState,
 } from 'reactflow';
-import { TextField } from '@mui/material';
+import { 
+	TextField,
+	Grid,
+	Autocomplete,
+	Typography
+} from '@mui/material';
 
 import 'reactflow/dist/style.css';
 import CustomNode from "./CustomNode.js";
 import CustomEdge from "./CustomEdge.js";
 import CustomCard from "./CustomCard.js";
+import CustomCardDetail from "./CustomCardDetail.js";
 import * as Utils from "./utils.js"
 
 const nodeTypes = { customNode: CustomNode };
@@ -79,11 +85,11 @@ const createEdge = (list) => {
 
 			dynamicEdges.push(edgeAttributes);
 		}
-
 	}
 
 	return dynamicEdges;
 }
+
 
 export default function App() {
 	var tieredList = Utils.getTieredList("Fish_Burger");
@@ -93,13 +99,27 @@ export default function App() {
 	const [nodes, setNodes, onNodesChange] = useNodesState(dynamicNodes);
 	const [edges, setEdges, onEdgesChange] = useEdgesState(dynamicEdges);
 	const [cardItemObject, setCardItemObject] = useState(Utils.getItemObject(nodes[0].data.itemName));
-	const [textVieldValue, setTextFieldValue] = useState(dynamicNodes[0].data.itemName);
+	const [selectedOption, setSelectedOption] = useState({});
+	const [itemsItCanBeBuiltInto, setItemsItCanBeBuiltInto] = useState([]);
 
-	const handleKeyDown = (event) => {
-        if (event.keyCode === 13) {
-			var requestedItem = event.target.value.trim();
-			var requestedItemObject = Utils.getItemObject(requestedItem);
-			tieredList = Utils.getTieredList(requestedItem);
+	const handleNodeClick = (event) => {
+		const itemName = event.target.alt;
+		const itemObject = Utils.getItemObject(itemName);
+		setCardItemObject(itemObject);
+		setSelectedOption(itemObject);
+
+		const listOfItemsItCanBeBuiltInto = Utils.getItemObjectsBuiltFrom(itemObject);
+		setItemsItCanBeBuiltInto(listOfItemsItCanBeBuiltInto);
+	}
+
+	const handleAutocompleteOnChange = (event, value) => {
+		setSelectedOption(value);
+
+		if (event.key === "Enter" || event.type === "click") {
+			var requestedItemObject = value;
+			var requestItemName = value.Name;
+			var listOfItemsItCanBeBuiltInto = Utils.getItemObjectsBuiltFrom(requestedItemObject);
+			tieredList = Utils.getTieredList(requestItemName);
 			if (tieredList) {
 				dynamicNodes = createNode(tieredList);
 				dynamicEdges = createEdge(tieredList);
@@ -107,26 +127,32 @@ export default function App() {
 				setNodes(dynamicNodes);
 				setEdges(dynamicEdges);
 				setCardItemObject(requestedItemObject);
-			} else {
-				console.log("There is no such item");
+				setItemsItCanBeBuiltInto(listOfItemsItCanBeBuiltInto);
 			}
-        }
+		}
 	}
 
-	const handleNodeClick = (event) => {
-		const itemName = event.target.alt;
-		const itemObject = Utils.getItemObject(itemName);
-		setCardItemObject(itemObject);
-	}
+	const handleCardDetailOnClick = (itemObject) => {
+		setSelectedOption(itemObject);
 
-	// const handleErrorTextFieldValue = (event) => {
-	// 	const textFieldValue = event.target.value.trim();
-	// 	if 
-	// }
+		var requestedItemObject = itemObject;
+		var requestItemName = itemObject.Name;
+		var listOfItemsItCanBeBuiltInto = Utils.getItemObjectsBuiltFrom(requestedItemObject);
+		tieredList = Utils.getTieredList(requestItemName);
+		if (tieredList) {
+			dynamicNodes = createNode(tieredList);
+			dynamicEdges = createEdge(tieredList);
+			
+			setNodes(dynamicNodes);
+			setEdges(dynamicEdges);
+			setCardItemObject(requestedItemObject);
+			setItemsItCanBeBuiltInto(listOfItemsItCanBeBuiltInto);
+		}
+	}
 
   	return (
-		<div style={{display: "flex", flexDirection: "row"}}>
-			<div style={{ width: "70vw", height: "100vh" }} >
+		<Grid container spacing={2}>
+			<Grid item xs={12} md={8} style={{ height: "100vh" }}>
 				<ReactFlow
 					onNodeClick={handleNodeClick}
 					nodes={nodes}
@@ -141,19 +167,42 @@ export default function App() {
 					<MiniMap />
 					<Background variant="dots" gap={12} size={1} color={"grey"}/>
 				</ReactFlow>
-			</div>
-			<div style={{ width: "30vw", height: "100vh" }}>
-				<TextField 
-					variant="outlined"
-					value={textVieldValue}
-					size="small"
-					margin="normal"
-					onChange={(e) => setTextFieldValue(e.target.value)}
-					onKeyDown={handleKeyDown}
+			</Grid>
+			<Grid item xs={12} md={4} style={{ height: "100vh" }}>
+				<Autocomplete
+					style={{ maxWidth: 400 }}
+					disableClearable
+					fullWidth
+					autoSelect
+					autoHighlight
+					blurOnSelect
+					options={Utils.getAllItemObjects()}
+					getOptionLabel={(option) => option.DisplayedName}
+					onChange={handleAutocompleteOnChange}
+					renderInput={(params) => (
+						<TextField
+							{...params}
+							label="Search items"
+							variant="outlined"
+							size="medium"
+							margin="normal"
+						/>
+					)}
 				/>
-
 				<CustomCard data={cardItemObject} />
-			</div>
-		</div>
+				{ itemsItCanBeBuiltInto.length > 0 &&
+					<Typography variant="body1">
+						Items {selectedOption.DisplayedName.toLowerCase()} can be built into:
+					</Typography> 
+				}
+
+				{itemsItCanBeBuiltInto.length > 0 && 
+					itemsItCanBeBuiltInto.map((item, key) =>
+					<CustomCardDetail key={key} data={item} onClick={() => { handleCardDetailOnClick(item) }}> 	
+						{item.DisplayedName}
+					</CustomCardDetail> 
+				)}
+			</Grid>
+		</Grid>
 	);
 }

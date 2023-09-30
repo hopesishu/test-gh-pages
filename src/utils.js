@@ -58,6 +58,10 @@ export const hasDuplicateId = (list, id) => {
 }
 
 export const getItemObject = (itemName) => {
+	if (itemName == null) {
+		return null;
+	}
+
 	for (var data in jsonData) {
 		if (jsonData[data].Name.toLowerCase() === itemName.toLowerCase()) {
 			var itemObject = Object.assign({}, jsonData[data]);
@@ -72,8 +76,26 @@ export const isCyclical = (itemObject) => {
 	var itemNeeds = itemObject.Needs;
 
 	if ((itemNeeds.length === 1 && (itemNeeds[0] === itemName || itemNeeds[0] === "N/A"))
-		|| itemNeeds.length === 0) {
+		|| itemNeeds.length === 0
+	) {
 		return true;
 	}
 	return false;
+}
+
+export const getAllItemObjects = () => {
+	return jsonData;
+}
+
+export const getItemObjectsBuiltFrom = (itemObject) => {
+	const itemName = itemObject.Name;
+	var list = [];
+	for (var data in jsonData) {
+		var currentItemObject = jsonData[data];
+		var currentItemNeeds = currentItemObject.Needs;
+		if (currentItemNeeds.includes(itemName) && !isCyclical(currentItemObject)) {
+			list.push(currentItemObject);
+		}
+	}
+	return list;
 }

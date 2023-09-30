@@ -1,6 +1,7 @@
 [
     {
         "Name": "Wheat",
+        "DisplayedName": "Wheat",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
         "Level": "1",
         "MaxPrice": "3",
@@ -16,6 +17,7 @@
     },
     {
         "Name": "Egg",
+        "DisplayedName": "Egg",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png",
         "Level": "1",
         "MaxPrice": "18",
@@ -31,6 +33,7 @@
     },
     {
         "Name": "Corn",
+        "DisplayedName": "Corn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
         "Level": "2",
         "MaxPrice": "7",
@@ -46,6 +49,7 @@
     },
     {
         "Name": "Bread",
+        "DisplayedName": "Bread",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Bread.png",
         "Level": "2",
         "MaxPrice": "21",
@@ -62,6 +66,7 @@
     },
     {
         "Name": "Chicken_Feed",
+        "DisplayedName": "Chicken Feed",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Chicken_Feed.png",
         "Level": "3",
         "MaxPrice": "7",
@@ -79,6 +84,7 @@
     },
     {
         "Name": "Soybean",
+        "DisplayedName": "Soybean",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png",
         "Level": "5",
         "MaxPrice": "10",
@@ -94,6 +100,7 @@
     },
     {
         "Name": "Cow_Feed",
+        "DisplayedName": "Cow Feed",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Cow_Feed.png",
         "Level": "6",
         "MaxPrice": "14",
@@ -111,6 +118,7 @@
     },
     {
         "Name": "Milk",
+        "DisplayedName": "Milk",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/92/Milk.png",
         "Level": "6",
         "MaxPrice": "32",
@@ -126,6 +134,7 @@
     },
     {
         "Name": "Cream",
+        "DisplayedName": "Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Cream.png",
         "Level": "6",
         "MaxPrice": "50",
@@ -142,6 +151,7 @@
     },
     {
         "Name": "Sugarcane",
+        "DisplayedName": "Sugarcane",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png",
         "Level": "7",
         "MaxPrice": "14",
@@ -157,6 +167,7 @@
     },
     {
         "Name": "Corn_Bread",
+        "DisplayedName": "Corn Bread",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Corn_Bread.png",
         "Level": "7",
         "MaxPrice": "72",
@@ -174,6 +185,7 @@
     },
     {
         "Name": "Brown_Sugar",
+        "DisplayedName": "Brown Sugar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Brown_Sugar.png",
         "Level": "7",
         "MaxPrice": "32",
@@ -190,6 +202,7 @@
     },
     {
         "Name": "Popcorn",
+        "DisplayedName": "Popcorn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Popcorn.png",
         "Level": "8",
         "MaxPrice": "32",
@@ -206,6 +219,7 @@
     },
     {
         "Name": "Carrot",
+        "DisplayedName": "Carrot",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png",
         "Level": "9",
         "MaxPrice": "7",
@@ -221,6 +235,7 @@
     },
     {
         "Name": "Butter",
+        "DisplayedName": "Butter",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Butter.png",
         "Level": "9",
         "MaxPrice": "82",
@@ -237,6 +252,7 @@
     },
     {
         "Name": "Pancake",
+        "DisplayedName": "Pancake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Pancake.png",
         "Level": "9",
         "MaxPrice": "108",
@@ -254,6 +270,7 @@
     },
     {
         "Name": "Pig_Feed",
+        "DisplayedName": "Pig Feed",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Pig_Feed.png",
         "Level": "10",
         "MaxPrice": "14",
@@ -271,6 +288,7 @@
     },
     {
         "Name": "Bacon",
+        "DisplayedName": "Bacon",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png",
         "Level": "10",
         "MaxPrice": "50",
@@ -286,6 +304,7 @@
     },
     {
         "Name": "Cookie",
+        "DisplayedName": "Cookie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Cookie.png",
         "Level": "10",
         "MaxPrice": "104",
@@ -304,6 +323,7 @@
     },
     {
         "Name": "Bacon_and_Eggs",
+        "DisplayedName": "Bacon and Eggs",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Bacon_and_Eggs.png",
         "Level": "11",
         "MaxPrice": "201",
@@ -321,6 +341,7 @@
     },
     {
         "Name": "Cheese",
+        "DisplayedName": "Cheese",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png",
         "Level": "12",
         "MaxPrice": "122",
@@ -337,6 +358,7 @@
     },
     {
         "Name": "Indigo",
+        "DisplayedName": "Indigo",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png",
         "Level": "13",
         "MaxPrice": "25",
@@ -352,6 +374,7 @@
     },
     {
         "Name": "White_Sugar",
+        "DisplayedName": "White Sugar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/ff/White_Sugar.png",
         "Level": "13",
         "MaxPrice": "50",
@@ -368,6 +391,7 @@
     },
     {
         "Name": "Carrot_Pie",
+        "DisplayedName": "Carrot Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0b/Carrot_Pie.png",
         "Level": "14",
         "MaxPrice": "82",
@@ -386,6 +410,7 @@
     },
     {
         "Name": "Pumpkin",
+        "DisplayedName": "Pumpkin",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png",
         "Level": "15",
         "MaxPrice": "32",
@@ -401,6 +426,7 @@
     },
     {
         "Name": "Pumpkin_Pie",
+        "DisplayedName": "Pumpkin Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Pumpkin_Pie.png",
         "Level": "15",
         "MaxPrice": "158",
@@ -419,6 +445,7 @@
     },
     {
         "Name": "Apple",
+        "DisplayedName": "Apple",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png",
         "Level": "15",
         "MaxPrice": "39",
@@ -432,6 +459,7 @@
     },
     {
         "Name": "Sheep_Feed",
+        "DisplayedName": "Sheep Feed",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/58/Sheep_Feed.png",
         "Level": "16",
         "MaxPrice": "14",
@@ -449,6 +477,7 @@
     },
     {
         "Name": "Wool",
+        "DisplayedName": "Wool",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png",
         "Level": "16",
         "MaxPrice": "54",
@@ -464,6 +493,7 @@
     },
     {
         "Name": "Buttered_Popcorn",
+        "DisplayedName": "Buttered Popcorn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Buttered_Popcorn.png",
         "Level": "16",
         "MaxPrice": "126",
@@ -481,6 +511,7 @@
     },
     {
         "Name": "Sweater",
+        "DisplayedName": "Sweater",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Sweater.png",
         "Level": "17",
         "MaxPrice": "151",
@@ -497,6 +528,7 @@
     },
     {
         "Name": "Cotton",
+        "DisplayedName": "Cotton",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png",
         "Level": "18",
         "MaxPrice": "28",
@@ -512,6 +544,7 @@
     },
     {
         "Name": "Bacon_Pie",
+        "DisplayedName": "Bacon Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Bacon_Pie.png",
         "Level": "18",
         "MaxPrice": "219",
@@ -530,6 +563,7 @@
     },
     {
         "Name": "Syrup",
+        "DisplayedName": "Syrup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png",
         "Level": "18",
         "MaxPrice": "90",
@@ -546,6 +580,7 @@
     },
     {
         "Name": "Cotton_Fabric",
+        "DisplayedName": "Cotton Fabric",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/Cotton_Fabric.png",
         "Level": "18",
         "MaxPrice": "108",
@@ -562,6 +597,7 @@
     },
     {
         "Name": "Hamburger",
+        "DisplayedName": "Hamburger",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a4/Hamburger.png",
         "Level": "18",
         "MaxPrice": "180",
@@ -579,6 +615,7 @@
     },
     {
         "Name": "Raspberry",
+        "DisplayedName": "Raspberry",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Raspberry.png",
         "Level": "19",
         "MaxPrice": "46",
@@ -592,6 +629,7 @@
     },
     {
         "Name": "Raspberry_Muffin",
+        "DisplayedName": "Raspberry Muffin",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/22/Raspberry_Muffin.png",
         "Level": "19",
         "MaxPrice": "140",
@@ -610,6 +648,7 @@
     },
     {
         "Name": "Blue_Woolly_Hat",
+        "DisplayedName": "Blue Woolly Hat",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Blue_Woolly_Hat.png",
         "Level": "19",
         "MaxPrice": "111",
@@ -627,6 +666,7 @@
     },
     {
         "Name": "Cotton_Shirt",
+        "DisplayedName": "Cotton Shirt",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Cotton_Shirt.png",
         "Level": "19",
         "MaxPrice": "241",
@@ -643,6 +683,7 @@
     },
     {
         "Name": "Blue_Sweater",
+        "DisplayedName": "Blue Sweater",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/37/Blue_Sweater.png",
         "Level": "20",
         "MaxPrice": "208",
@@ -660,6 +701,7 @@
     },
     {
         "Name": "Carrot_Cake",
+        "DisplayedName": "Carrot Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Carrot_Cake.png",
         "Level": "21",
         "MaxPrice": "165",
@@ -678,6 +720,7 @@
     },
     {
         "Name": "Wooly_Chaps",
+        "DisplayedName": "Wooly Chaps",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/22/Wooly_Chaps.png",
         "Level": "21",
         "MaxPrice": "309",
@@ -695,6 +738,7 @@
     },
     {
         "Name": "Cherry",
+        "DisplayedName": "Cherry",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png",
         "Level": "22",
         "MaxPrice": "68",
@@ -708,6 +752,7 @@
     },
     {
         "Name": "Cream_Cake",
+        "DisplayedName": "Cream Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Cream_Cake.png",
         "Level": "23",
         "MaxPrice": "219",
@@ -726,6 +771,7 @@
     },
     {
         "Name": "Red_Berry_Cake",
+        "DisplayedName": "Red Berry Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Red_Berry_Cake.png",
         "Level": "23",
         "MaxPrice": "255",
@@ -745,6 +791,7 @@
     },
     {
         "Name": "Cheesecake",
+        "DisplayedName": "Cheesecake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Cheesecake.png",
         "Level": "24",
         "MaxPrice": "284",
@@ -762,6 +809,7 @@
     },
     {
         "Name": "Silver_Ore",
+        "DisplayedName": "Silver Ore",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/97/Silver_Ore.png",
         "Level": "24",
         "MaxPrice": "18",
@@ -777,6 +825,7 @@
     },
     {
         "Name": "Gold_Ore",
+        "DisplayedName": "Gold Ore",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f7/Gold_Ore.png",
         "Level": "24",
         "MaxPrice": "21",
@@ -792,6 +841,7 @@
     },
     {
         "Name": "Platinum_Ore",
+        "DisplayedName": "Platinum Ore",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Platinum_Ore.png",
         "Level": "24",
         "MaxPrice": "32",
@@ -807,6 +857,7 @@
     },
     {
         "Name": "Silver_Bar",
+        "DisplayedName": "Silver Bar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/94/Silver_Bar.png",
         "Level": "24",
         "MaxPrice": "147",
@@ -823,6 +874,7 @@
     },
     {
         "Name": "Chili_Pepper",
+        "DisplayedName": "Chili Pepper",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png",
         "Level": "25",
         "MaxPrice": "36",
@@ -838,6 +890,7 @@
     },
     {
         "Name": "Chili_Popcorn",
+        "DisplayedName": "Chili Popcorn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Chili_Popcorn.png",
         "Level": "25",
         "MaxPrice": "122",
@@ -855,6 +908,7 @@
     },
     {
         "Name": "Gold_Bar",
+        "DisplayedName": "Gold Bar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Gold_Bar.png",
         "Level": "25",
         "MaxPrice": "180",
@@ -871,6 +925,7 @@
     },
     {
         "Name": "Platinum_Bar",
+        "DisplayedName": "Platinum Bar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Platinum_Bar.png",
         "Level": "25",
         "MaxPrice": "205",
@@ -887,6 +942,7 @@
     },
     {
         "Name": "Violet_Dress",
+        "DisplayedName": "Violet Dress",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Violet_Dress.png",
         "Level": "25",
         "MaxPrice": "327",
@@ -905,6 +961,7 @@
     },
     {
         "Name": "Blackberry",
+        "DisplayedName": "Blackberry",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Blackberry.png",
         "Level": "26",
         "MaxPrice": "82",
@@ -918,6 +975,7 @@
     },
     {
         "Name": "Blackberry_Muffin",
+        "DisplayedName": "Blackberry Muffin",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c9/Blackberry_Muffin.png",
         "Level": "26",
         "MaxPrice": "226",
@@ -936,6 +994,7 @@
     },
     {
         "Name": "Carrot_Juice",
+        "DisplayedName": "Carrot Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e0/Carrot_Juice.png",
         "Level": "26",
         "MaxPrice": "46",
@@ -952,6 +1011,7 @@
     },
     {
         "Name": "Lure",
+        "DisplayedName": "Lure",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Red_Lure.png",
         "Level": "27",
         "MaxPrice": "0",
@@ -965,71 +1025,8 @@
         "PerBoatCrate": "N/A"
     },
     {
-        "Name": "Lure",
-        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Green_Lure.png",
-        "Level": "27",
-        "MaxPrice": "0",
-        "Time": [
-            "1 h 15 min",
-            "1 h 3 min"
-        ],
-        "Xp": "2",
-        "Needs": [
-            "Voucher"
-        ],
-        "Source": "Lure_Workbench",
-        "PerBoatCrate": "N/A"
-    },
-    {
-        "Name": "Lure",
-        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/12/Blue_Lure.png",
-        "Level": "27",
-        "MaxPrice": "0",
-        "Time": [
-            "1 h",
-            "51 min"
-        ],
-        "Xp": "3",
-        "Needs": [
-            "Voucher"
-        ],
-        "Source": "Lure_Workbench",
-        "PerBoatCrate": "N/A"
-    },
-    {
-        "Name": "Lure",
-        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Purple_Lure.png",
-        "Level": "27",
-        "MaxPrice": "0",
-        "Time": [
-            "45 min",
-            "38 min"
-        ],
-        "Xp": "4",
-        "Needs": [
-            "Voucher"
-        ],
-        "Source": "Lure_Workbench",
-        "PerBoatCrate": "N/A"
-    },
-    {
-        "Name": "Lure",
-        "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Gold_Lure.png",
-        "Level": "27",
-        "MaxPrice": "0",
-        "Time": [
-            "30 min",
-            "25 min"
-        ],
-        "Xp": "5",
-        "Needs": [
-            "Voucher"
-        ],
-        "Source": "Lure_Workbench",
-        "PerBoatCrate": "N/A"
-    },
-    {
         "Name": "Fish_Fillet",
+        "DisplayedName": "Fish Fillet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/63/Fish_Fillet.png",
         "Level": "27",
         "MaxPrice": "54",
@@ -1047,6 +1044,7 @@
     },
     {
         "Name": "Fish_Burger",
+        "DisplayedName": "Fish Burger",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7e/Fish_Burger.png",
         "Level": "27",
         "MaxPrice": "226",
@@ -1065,6 +1063,7 @@
     },
     {
         "Name": "Apple_Pie",
+        "DisplayedName": "Apple Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Apple_Pie.png",
         "Level": "28",
         "MaxPrice": "270",
@@ -1084,6 +1083,7 @@
     },
     {
         "Name": "Fish_Pie",
+        "DisplayedName": "Fish Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ec/Fish_Pie.png",
         "Level": "28",
         "MaxPrice": "226",
@@ -1102,6 +1102,7 @@
     },
     {
         "Name": "Apple_Juice",
+        "DisplayedName": "Apple Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Apple_Juice.png",
         "Level": "28",
         "MaxPrice": "129",
@@ -1118,6 +1119,7 @@
     },
     {
         "Name": "Vanilla_Ice_Cream",
+        "DisplayedName": "Vanilla Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/15/Vanilla_Ice_Cream.png",
         "Level": "29",
         "MaxPrice": "172",
@@ -1136,6 +1138,7 @@
     },
     {
         "Name": "Tomato",
+        "DisplayedName": "Tomato",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png",
         "Level": "30",
         "MaxPrice": "43",
@@ -1151,6 +1154,7 @@
     },
     {
         "Name": "Roasted_Tomatoes",
+        "DisplayedName": "Roasted Tomatoes",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/04/Roasted_Tomatoes.png",
         "Level": "30",
         "MaxPrice": "118",
@@ -1167,6 +1171,7 @@
     },
     {
         "Name": "Cherry_Juice",
+        "DisplayedName": "Cherry Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Cherry_Juice.png",
         "Level": "30",
         "MaxPrice": "216",
@@ -1183,6 +1188,7 @@
     },
     {
         "Name": "Fishing_Net",
+        "DisplayedName": "Fishing Net",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a1/Fishing_Net.png",
         "Level": "30",
         "MaxPrice": "0",
@@ -1197,6 +1203,7 @@
     },
     {
         "Name": "Mystery_Net",
+        "DisplayedName": "Mystery Net",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Mystery_Net.png",
         "Level": "30",
         "MaxPrice": "0",
@@ -1213,6 +1220,7 @@
     },
     {
         "Name": "Tomato_Juice",
+        "DisplayedName": "Tomato Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Tomato_Juice.png",
         "Level": "31",
         "MaxPrice": "162",
@@ -1229,6 +1237,7 @@
     },
     {
         "Name": "Berry_Juice",
+        "DisplayedName": "Berry Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Berry_Juice.png",
         "Level": "31",
         "MaxPrice": "205",
@@ -1246,6 +1255,7 @@
     },
     {
         "Name": "Goat_Feed",
+        "DisplayedName": "Goat Feed",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Goat_Feed.png",
         "Level": "32",
         "MaxPrice": "14",
@@ -1264,6 +1274,7 @@
     },
     {
         "Name": "Goat_Milk",
+        "DisplayedName": "Goat Milk",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Goat_Milk.png",
         "Level": "32",
         "MaxPrice": "64",
@@ -1279,6 +1290,7 @@
     },
     {
         "Name": "Goat_Cheese",
+        "DisplayedName": "Goat Cheese",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Goat_Cheese.png",
         "Level": "33",
         "MaxPrice": "162",
@@ -1295,6 +1307,7 @@
     },
     {
         "Name": "Pizza",
+        "DisplayedName": "Pizza",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f4/Pizza.png",
         "Level": "33",
         "MaxPrice": "190",
@@ -1313,6 +1326,7 @@
     },
     {
         "Name": "Coal",
+        "DisplayedName": "Coal",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a7/Coal.png",
         "Level": "33",
         "MaxPrice": "10",
@@ -1328,6 +1342,7 @@
     },
     {
         "Name": "Refined_Coal",
+        "DisplayedName": "Refined Coal",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Refined_Coal.png",
         "Level": "33",
         "MaxPrice": "108",
@@ -1344,6 +1359,7 @@
     },
     {
         "Name": "Cherry_Popsicle",
+        "DisplayedName": "Cherry Popsicle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Cherry_Popsicle.png",
         "Level": "33",
         "MaxPrice": "352",
@@ -1361,6 +1377,7 @@
     },
     {
         "Name": "Strawberry",
+        "DisplayedName": "Strawberry",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png",
         "Level": "34",
         "MaxPrice": "50",
@@ -1376,6 +1393,7 @@
     },
     {
         "Name": "Feta_Pie",
+        "DisplayedName": "Feta Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Feta_Pie.png",
         "Level": "34",
         "MaxPrice": "223",
@@ -1394,6 +1412,7 @@
     },
     {
         "Name": "Iron_Ore",
+        "DisplayedName": "Iron Ore",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png",
         "Level": "34",
         "MaxPrice": "14",
@@ -1409,6 +1428,7 @@
     },
     {
         "Name": "Iron_Bar",
+        "DisplayedName": "Iron Bar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Iron_Bar.png",
         "Level": "34",
         "MaxPrice": "129",
@@ -1425,6 +1445,7 @@
     },
     {
         "Name": "Strawberry_Ice_Cream",
+        "DisplayedName": "Strawberry Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8d/Strawberry_Ice_Cream.png",
         "Level": "34",
         "MaxPrice": "331",
@@ -1444,6 +1465,7 @@
     },
     {
         "Name": "Wheat_Bundle",
+        "DisplayedName": "Wheat Bundle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Wheat_Bundle.png",
         "Level": "34 (Rep. 3)",
         "MaxPrice": "50",
@@ -1460,6 +1482,7 @@
     },
     {
         "Name": "Meat_Bucket",
+        "DisplayedName": "Meat Bucket",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5e/Meat_Bucket.png",
         "Level": "34 (Rep. 3)",
         "MaxPrice": "72",
@@ -1477,6 +1500,7 @@
     },
     {
         "Name": "Potato",
+        "DisplayedName": "Potato",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png",
         "Level": "35",
         "MaxPrice": "36",
@@ -1492,6 +1516,7 @@
     },
     {
         "Name": "Strawberry_Cake",
+        "DisplayedName": "Strawberry Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1a/Strawberry_Cake.png",
         "Level": "35",
         "MaxPrice": "316",
@@ -1511,6 +1536,7 @@
     },
     {
         "Name": "Baked_Potato",
+        "DisplayedName": "Baked Potato",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/11/Baked_Potato.png",
         "Level": "35",
         "MaxPrice": "298",
@@ -1530,6 +1556,7 @@
     },
     {
         "Name": "Apple_Jam",
+        "DisplayedName": "Apple Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Apple_Jam.png",
         "Level": "35",
         "MaxPrice": "219",
@@ -1546,6 +1573,7 @@
     },
     {
         "Name": "Chocolate_Cake",
+        "DisplayedName": "Chocolate Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Chocolate_Cake.png",
         "Level": "36",
         "MaxPrice": "320",
@@ -1564,6 +1592,7 @@
     },
     {
         "Name": "Casserole",
+        "DisplayedName": "Casserole",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b6/Casserole.png",
         "Level": "36",
         "MaxPrice": "367",
@@ -1583,6 +1612,7 @@
     },
     {
         "Name": "Cacao",
+        "DisplayedName": "Cacao",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png",
         "Level": "36",
         "MaxPrice": "86",
@@ -1596,6 +1626,7 @@
     },
     {
         "Name": "Raspberry_Jam",
+        "DisplayedName": "Raspberry Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Raspberry_Jam.png",
         "Level": "36",
         "MaxPrice": "252",
@@ -1612,6 +1643,7 @@
     },
     {
         "Name": "Spicy_Pizza",
+        "DisplayedName": "Spicy Pizza",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Spicy_Pizza.png",
         "Level": "37",
         "MaxPrice": "226",
@@ -1631,6 +1663,7 @@
     },
     {
         "Name": "Blackberry_Jam",
+        "DisplayedName": "Blackberry Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Blackberry_Jam.png",
         "Level": "37",
         "MaxPrice": "388",
@@ -1647,6 +1680,7 @@
     },
     {
         "Name": "Potato_Feta_Cake",
+        "DisplayedName": "Potato Feta Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Potato_Feta_Cake.png",
         "Level": "38",
         "MaxPrice": "309",
@@ -1665,6 +1699,7 @@
     },
     {
         "Name": "Cherry_Jam",
+        "DisplayedName": "Cherry Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/53/Cherry_Jam.png",
         "Level": "38",
         "MaxPrice": "334",
@@ -1681,6 +1716,7 @@
     },
     {
         "Name": "Bracelet",
+        "DisplayedName": "Bracelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Bracelet.png",
         "Level": "38",
         "MaxPrice": "514",
@@ -1698,6 +1734,7 @@
     },
     {
         "Name": "Potato_Bread",
+        "DisplayedName": "Potato Bread",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/26/Potato_Bread.png",
         "Level": "39",
         "MaxPrice": "284",
@@ -1716,7 +1753,8 @@
         "PerBoatCrate": "1-2"
     },
     {
-        "Name": "Shepherd%27s_Pie",
+        "Name": "Shepherd's_Pie",
+        "DisplayedName": "Shepherd's Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Shepherds_Pie.png",
         "Level": "39",
         "MaxPrice": "280",
@@ -1736,6 +1774,7 @@
     },
     {
         "Name": "Chocolate_Ice_Cream",
+        "DisplayedName": "Chocolate Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Chocolate_Ice_Cream.png",
         "Level": "39",
         "MaxPrice": "342",
@@ -1755,6 +1794,7 @@
     },
     {
         "Name": "Honeycomb",
+        "DisplayedName": "Honeycomb",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Honeycomb.png",
         "Level": "39",
         "MaxPrice": "68",
@@ -1768,6 +1808,7 @@
     },
     {
         "Name": "Necklace",
+        "DisplayedName": "Necklace",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Necklace.png",
         "Level": "39",
         "MaxPrice": "727",
@@ -1786,6 +1827,7 @@
     },
     {
         "Name": "Honey",
+        "DisplayedName": "Honey",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Honey.png",
         "Level": "39",
         "MaxPrice": "154",
@@ -1802,6 +1844,7 @@
     },
     {
         "Name": "Honey_Popcorn",
+        "DisplayedName": "Honey Popcorn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Honey_Popcorn.png",
         "Level": "40",
         "MaxPrice": "360",
@@ -1819,6 +1862,7 @@
     },
     {
         "Name": "Diamond_Ring",
+        "DisplayedName": "Diamond Ring",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Diamond_Ring.png",
         "Level": "40",
         "MaxPrice": "824",
@@ -1837,6 +1881,7 @@
     },
     {
         "Name": "Fish_and_Chips",
+        "DisplayedName": "Fish and Chips",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ea/Fish_and_Chips.png",
         "Level": "41",
         "MaxPrice": "244",
@@ -1854,6 +1899,7 @@
     },
     {
         "Name": "Iron_Bracelet",
+        "DisplayedName": "Iron Bracelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Iron_Bracelet.png",
         "Level": "41",
         "MaxPrice": "658",
@@ -1872,6 +1918,7 @@
     },
     {
         "Name": "Coffee_Bean",
+        "DisplayedName": "Coffee Bean",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png",
         "Level": "42",
         "MaxPrice": "64",
@@ -1885,6 +1932,7 @@
     },
     {
         "Name": "Espresso",
+        "DisplayedName": "Espresso",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/Espresso.png",
         "Level": "42",
         "MaxPrice": "248",
@@ -1902,6 +1950,7 @@
     },
     {
         "Name": "Honey_Apple_Cake",
+        "DisplayedName": "Honey Apple Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/16/Honey_Apple_Cake.png",
         "Level": "42",
         "MaxPrice": "482",
@@ -1920,7 +1969,8 @@
         "PerBoatCrate": "2"
     },
     {
-        "Name": "Caff%C3%A8_Latte",
+        "Name": "Caffè_Latte",
+        "DisplayedName": "Caffè Latte",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6e/Caff%C3%A8_Latte.png",
         "Level": "43",
         "MaxPrice": "219",
@@ -1939,6 +1989,7 @@
     },
     {
         "Name": "Chocolate_Popcorn",
+        "DisplayedName": "Chocolate Popcorn",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/Chocolate_Popcorn.png",
         "Level": "44",
         "MaxPrice": "248",
@@ -1956,6 +2007,7 @@
     },
     {
         "Name": "Lobster_Trap",
+        "DisplayedName": "Lobster Trap",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Lobster_Trap.png",
         "Level": "44",
         "MaxPrice": "0",
@@ -1970,6 +2022,7 @@
     },
     {
         "Name": "Lobster_Tail",
+        "DisplayedName": "Lobster Tail",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Lobster_Tail.png",
         "Level": "44",
         "MaxPrice": "201",
@@ -1985,6 +2038,7 @@
     },
     {
         "Name": "Frutti_di_Mare_Pizza",
+        "DisplayedName": "Frutti di Mare Pizza",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Frutti_di_Mare_Pizza.png",
         "Level": "45",
         "MaxPrice": "403",
@@ -2003,7 +2057,8 @@
         "PerBoatCrate": "1-2"
     },
     {
-        "Name": "Caff%C3%A8_Mocha",
+        "Name": "Caffè_Mocha",
+        "DisplayedName": "Caffè Mocha",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Caff%C3%A8_Mocha.png",
         "Level": "45",
         "MaxPrice": "291",
@@ -2022,6 +2077,7 @@
     },
     {
         "Name": "Raspberry_Mocha",
+        "DisplayedName": "Raspberry Mocha",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Raspberry_Mocha.png",
         "Level": "46",
         "MaxPrice": "259",
@@ -2041,6 +2097,7 @@
     },
     {
         "Name": "Lobster_Soup",
+        "DisplayedName": "Lobster Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Lobster_Soup.png",
         "Level": "46",
         "MaxPrice": "612",
@@ -2060,6 +2117,7 @@
     },
     {
         "Name": "Hot_Chocolate",
+        "DisplayedName": "Hot Chocolate",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Hot_Chocolate.png",
         "Level": "47",
         "MaxPrice": "316",
@@ -2079,6 +2137,7 @@
     },
     {
         "Name": "Tomato_Soup",
+        "DisplayedName": "Tomato Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dc/Tomato_Soup.png",
         "Level": "47",
         "MaxPrice": "478",
@@ -2098,6 +2157,7 @@
     },
     {
         "Name": "Red_Scarf",
+        "DisplayedName": "Red Scarf",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Red_Scarf.png",
         "Level": "48",
         "MaxPrice": "288",
@@ -2115,6 +2175,7 @@
     },
     {
         "Name": "Lobster_Skewer",
+        "DisplayedName": "Lobster Skewer",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Lobster_Skewer.png",
         "Level": "48",
         "MaxPrice": "417",
@@ -2133,6 +2194,7 @@
     },
     {
         "Name": "Beeswax",
+        "DisplayedName": "Beeswax",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Beeswax.png",
         "Level": "48",
         "MaxPrice": "234",
@@ -2149,6 +2211,7 @@
     },
     {
         "Name": "Strawberry_Candle",
+        "DisplayedName": "Strawberry Candle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Strawberry_Candle.png",
         "Level": "48",
         "MaxPrice": "370",
@@ -2166,6 +2229,7 @@
     },
     {
         "Name": "Rustic_Bouquet",
+        "DisplayedName": "Rustic Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Rustic_Bouquet.png",
         "Level": "49",
         "MaxPrice": "208",
@@ -2184,6 +2248,7 @@
     },
     {
         "Name": "Pumpkin_Soup",
+        "DisplayedName": "Pumpkin Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Pumpkin_Soup.png",
         "Level": "49",
         "MaxPrice": "392",
@@ -2203,6 +2268,7 @@
     },
     {
         "Name": "Asparagus",
+        "DisplayedName": "Asparagus",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png",
         "Level": "49",
         "MaxPrice": "43",
@@ -2218,6 +2284,7 @@
     },
     {
         "Name": "Asparagus_Quiche",
+        "DisplayedName": "Asparagus Quiche",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Asparagus_Quiche.png",
         "Level": "49",
         "MaxPrice": "302",
@@ -2237,6 +2304,7 @@
     },
     {
         "Name": "Strawberry_Jam",
+        "DisplayedName": "Strawberry Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Strawberry_Jam.png",
         "Level": "50",
         "MaxPrice": "270",
@@ -2253,6 +2321,7 @@
     },
     {
         "Name": "Duck_Trap",
+        "DisplayedName": "Duck Trap",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a7/Duck_Trap.png",
         "Level": "50",
         "MaxPrice": "0",
@@ -2267,6 +2336,7 @@
     },
     {
         "Name": "Duck_Feather",
+        "DisplayedName": "Duck Feather",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Duck_Feather.png",
         "Level": "50",
         "MaxPrice": "140",
@@ -2282,6 +2352,7 @@
     },
     {
         "Name": "Sesame",
+        "DisplayedName": "Sesame",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png",
         "Level": "50",
         "MaxPrice": "18",
@@ -2297,6 +2368,7 @@
     },
     {
         "Name": "Sesame_Ice_Cream",
+        "DisplayedName": "Sesame Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Sesame_Ice_Cream.png",
         "Level": "50",
         "MaxPrice": "176",
@@ -2315,6 +2387,7 @@
     },
     {
         "Name": "Caramel_Apple",
+        "DisplayedName": "Caramel Apple",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Caramel_Apple.png",
         "Level": "51",
         "MaxPrice": "255",
@@ -2332,6 +2405,7 @@
     },
     {
         "Name": "Pillow",
+        "DisplayedName": "Pillow",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Pillow.png",
         "Level": "51",
         "MaxPrice": "676",
@@ -2349,6 +2423,7 @@
     },
     {
         "Name": "Asparagus_Soup",
+        "DisplayedName": "Asparagus Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Asparagus_Soup.png",
         "Level": "51",
         "MaxPrice": "255",
@@ -2366,6 +2441,7 @@
     },
     {
         "Name": "Toffee",
+        "DisplayedName": "Toffee",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/29/Toffee.png",
         "Level": "52",
         "MaxPrice": "176",
@@ -2384,6 +2460,7 @@
     },
     {
         "Name": "Raspberry_Candle",
+        "DisplayedName": "Raspberry Candle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Raspberry_Candle.png",
         "Level": "52",
         "MaxPrice": "360",
@@ -2401,6 +2478,7 @@
     },
     {
         "Name": "Pineapple",
+        "DisplayedName": "Pineapple",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png",
         "Level": "52",
         "MaxPrice": "14",
@@ -2416,6 +2494,7 @@
     },
     {
         "Name": "Pineapple_Juice",
+        "DisplayedName": "Pineapple Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fd/Pineapple_Juice.png",
         "Level": "52",
         "MaxPrice": "68",
@@ -2432,6 +2511,7 @@
     },
     {
         "Name": "Fish_Soup",
+        "DisplayedName": "Fish Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Fish_Soup.png",
         "Level": "53",
         "MaxPrice": "298",
@@ -2451,6 +2531,7 @@
     },
     {
         "Name": "Lily",
+        "DisplayedName": "Lily",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png",
         "Level": "53",
         "MaxPrice": "21",
@@ -2466,6 +2547,7 @@
     },
     {
         "Name": "Soy_Sauce",
+        "DisplayedName": "Soy Sauce",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/97/Soy_Sauce.png",
         "Level": "54",
         "MaxPrice": "154",
@@ -2483,6 +2565,7 @@
     },
     {
         "Name": "Chocolate",
+        "DisplayedName": "Chocolate",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/df/Chocolate.png",
         "Level": "54",
         "MaxPrice": "460",
@@ -2501,6 +2584,7 @@
     },
     {
         "Name": "Fancy_Cake",
+        "DisplayedName": "Fancy Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Fancy_Cake.png",
         "Level": "54",
         "MaxPrice": "450",
@@ -2520,6 +2604,7 @@
     },
     {
         "Name": "Rice",
+        "DisplayedName": "Rice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png",
         "Level": "56",
         "MaxPrice": "18",
@@ -2535,6 +2620,7 @@
     },
     {
         "Name": "Sushi_Roll",
+        "DisplayedName": "Sushi Roll",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cf/Sushi_Roll.png",
         "Level": "56",
         "MaxPrice": "489",
@@ -2553,6 +2639,7 @@
     },
     {
         "Name": "Olive",
+        "DisplayedName": "Olive",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png",
         "Level": "57",
         "MaxPrice": "82",
@@ -2566,6 +2653,7 @@
     },
     {
         "Name": "Lollipop",
+        "DisplayedName": "Lollipop",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/58/Lollipop.png",
         "Level": "57",
         "MaxPrice": "342",
@@ -2584,6 +2672,7 @@
     },
     {
         "Name": "Lettuce",
+        "DisplayedName": "Lettuce",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png",
         "Level": "58",
         "MaxPrice": "32",
@@ -2599,6 +2688,7 @@
     },
     {
         "Name": "Feta_Salad",
+        "DisplayedName": "Feta Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Feta_Salad.png",
         "Level": "58",
         "MaxPrice": "745",
@@ -2618,6 +2708,7 @@
     },
     {
         "Name": "Lobster_Sushi",
+        "DisplayedName": "Lobster Sushi",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7b/Lobster_Sushi.png",
         "Level": "59",
         "MaxPrice": "637",
@@ -2636,6 +2727,7 @@
     },
     {
         "Name": "Blanket",
+        "DisplayedName": "Blanket",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3b/Blanket.png",
         "Level": "59",
         "MaxPrice": "1098",
@@ -2654,6 +2746,7 @@
     },
     {
         "Name": "Jelly_Beans",
+        "DisplayedName": "Jelly Beans",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Jelly_Beans.png",
         "Level": "60",
         "MaxPrice": "684",
@@ -2672,6 +2765,7 @@
     },
     {
         "Name": "Olive_Oil",
+        "DisplayedName": "Olive Oil",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Olive_Oil.png",
         "Level": "60",
         "MaxPrice": "277",
@@ -2688,6 +2782,7 @@
     },
     {
         "Name": "Garlic",
+        "DisplayedName": "Garlic",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png",
         "Level": "60",
         "MaxPrice": "14",
@@ -2703,6 +2798,7 @@
     },
     {
         "Name": "Garlic_Bread",
+        "DisplayedName": "Garlic Bread",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7f/Garlic_Bread.png",
         "Level": "60",
         "MaxPrice": "198",
@@ -2721,6 +2817,7 @@
     },
     {
         "Name": "Veggie_Bagel",
+        "DisplayedName": "Veggie Bagel",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Veggie_Bagel.png",
         "Level": "61",
         "MaxPrice": "532",
@@ -2740,6 +2837,7 @@
     },
     {
         "Name": "Mayonnaise",
+        "DisplayedName": "Mayonnaise",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Mayonnaise.png",
         "Level": "62",
         "MaxPrice": "367",
@@ -2757,6 +2855,7 @@
     },
     {
         "Name": "BLT_Salad",
+        "DisplayedName": "BLT Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/BLT_Salad.png",
         "Level": "62",
         "MaxPrice": "723",
@@ -2776,6 +2875,7 @@
     },
     {
         "Name": "Caramel_Latte",
+        "DisplayedName": "Caramel Latte",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Caramel_Latte.png",
         "Level": "62",
         "MaxPrice": "345",
@@ -2794,6 +2894,7 @@
     },
     {
         "Name": "Peanuts",
+        "DisplayedName": "Peanuts",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Peanuts.png",
         "Level": "62",
         "MaxPrice": "234",
@@ -2807,6 +2908,7 @@
     },
     {
         "Name": "Sunflower",
+        "DisplayedName": "Sunflower",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png",
         "Level": "63",
         "MaxPrice": "21",
@@ -2822,6 +2924,7 @@
     },
     {
         "Name": "Egg_Sushi",
+        "DisplayedName": "Egg Sushi",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Egg_Sushi.png",
         "Level": "63",
         "MaxPrice": "550",
@@ -2841,6 +2944,7 @@
     },
     {
         "Name": "Honey_Peanuts",
+        "DisplayedName": "Honey Peanuts",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/Honey_Peanuts.png",
         "Level": "63",
         "MaxPrice": "468",
@@ -2858,6 +2962,7 @@
     },
     {
         "Name": "Seafood_Salad",
+        "DisplayedName": "Seafood Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Seafood_Salad.png",
         "Level": "64",
         "MaxPrice": "763",
@@ -2877,6 +2982,7 @@
     },
     {
         "Name": "Berry_Smoothie",
+        "DisplayedName": "Berry Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Berry_Smoothie.png",
         "Level": "64",
         "MaxPrice": "547",
@@ -2895,6 +3001,7 @@
     },
     {
         "Name": "Snack_Mix",
+        "DisplayedName": "Snack Mix",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Snack_Mix.png",
         "Level": "64",
         "MaxPrice": "309",
@@ -2913,6 +3020,7 @@
     },
     {
         "Name": "Bright_Bouquet",
+        "DisplayedName": "Bright Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Bright_Bouquet.png",
         "Level": "65",
         "MaxPrice": "338",
@@ -2932,6 +3040,7 @@
     },
     {
         "Name": "Bacon_Toast",
+        "DisplayedName": "Bacon Toast",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/Bacon_Toast.png",
         "Level": "65",
         "MaxPrice": "648",
@@ -2951,6 +3060,7 @@
     },
     {
         "Name": "Pineapple_Cake",
+        "DisplayedName": "Pineapple Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Pineapple_Cake.png",
         "Level": "65",
         "MaxPrice": "259",
@@ -2970,6 +3080,7 @@
     },
     {
         "Name": "Chocolate_Pie",
+        "DisplayedName": "Chocolate Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Chocolate_Pie.png",
         "Level": "65",
         "MaxPrice": "514",
@@ -2989,6 +3100,7 @@
     },
     {
         "Name": "Cabbage",
+        "DisplayedName": "Cabbage",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png",
         "Level": "65",
         "MaxPrice": "18",
@@ -3004,6 +3116,7 @@
     },
     {
         "Name": "Cabbage_Soup",
+        "DisplayedName": "Cabbage Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/34/Cabbage_Soup.png",
         "Level": "65",
         "MaxPrice": "270",
@@ -3023,6 +3136,7 @@
     },
     {
         "Name": "Lemon",
+        "DisplayedName": "Lemon",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Lemon.png",
         "Level": "66",
         "MaxPrice": "93",
@@ -3036,6 +3150,7 @@
     },
     {
         "Name": "Lemon_Curd",
+        "DisplayedName": "Lemon Curd",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ea/Lemon_Curd.png",
         "Level": "66",
         "MaxPrice": "378",
@@ -3055,6 +3170,7 @@
     },
     {
         "Name": "Olive_Dip",
+        "DisplayedName": "Olive Dip",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/32/Olive_Dip.png",
         "Level": "66",
         "MaxPrice": "468",
@@ -3074,6 +3190,7 @@
     },
     {
         "Name": "Egg_Sandwich",
+        "DisplayedName": "Egg Sandwich",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Egg_Sandwich.png",
         "Level": "66",
         "MaxPrice": "583",
@@ -3093,6 +3210,7 @@
     },
     {
         "Name": "Green_Smoothie",
+        "DisplayedName": "Green Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Green_Smoothie.png",
         "Level": "66",
         "MaxPrice": "320",
@@ -3111,6 +3229,7 @@
     },
     {
         "Name": "Fresh_Pasta",
+        "DisplayedName": "Fresh Pasta",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Fresh_Pasta.png",
         "Level": "67",
         "MaxPrice": "43",
@@ -3128,6 +3247,7 @@
     },
     {
         "Name": "Pasta_Salad",
+        "DisplayedName": "Pasta Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/18/Pasta_Salad.png",
         "Level": "67",
         "MaxPrice": "759",
@@ -3147,6 +3267,7 @@
     },
     {
         "Name": "Lemon_Pie",
+        "DisplayedName": "Lemon Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Lemon_Pie.png",
         "Level": "67",
         "MaxPrice": "446",
@@ -3165,6 +3286,7 @@
     },
     {
         "Name": "Grilled_Asparagus",
+        "DisplayedName": "Grilled Asparagus",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cf/Grilled_Asparagus.png",
         "Level": "67",
         "MaxPrice": "486",
@@ -3183,6 +3305,7 @@
     },
     {
         "Name": "Onion",
+        "DisplayedName": "Onion",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png",
         "Level": "68",
         "MaxPrice": "39",
@@ -3198,6 +3321,7 @@
     },
     {
         "Name": "Grilled_Onion",
+        "DisplayedName": "Grilled Onion",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Grilled_Onion.png",
         "Level": "68",
         "MaxPrice": "190",
@@ -3215,6 +3339,7 @@
     },
     {
         "Name": "Lemon_Cake",
+        "DisplayedName": "Lemon Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Lemon_Cake.png",
         "Level": "68",
         "MaxPrice": "896",
@@ -3234,6 +3359,7 @@
     },
     {
         "Name": "Peanut_Butter_Milkshake",
+        "DisplayedName": "Peanut Butter Milkshake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b7/Peanut_Butter_Milkshake.png",
         "Level": "68",
         "MaxPrice": "619",
@@ -3253,6 +3379,7 @@
     },
     {
         "Name": "Tomato_Sauce",
+        "DisplayedName": "Tomato Sauce",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/Tomato_Sauce.png",
         "Level": "69",
         "MaxPrice": "230",
@@ -3271,6 +3398,7 @@
     },
     {
         "Name": "Honey_Toast",
+        "DisplayedName": "Honey Toast",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Honey_Toast.png",
         "Level": "69",
         "MaxPrice": "255",
@@ -3290,6 +3418,7 @@
     },
     {
         "Name": "Fried_Rice",
+        "DisplayedName": "Fried Rice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Fried_Rice.png",
         "Level": "69",
         "MaxPrice": "205",
@@ -3307,6 +3436,7 @@
     },
     {
         "Name": "Yogurt_Smoothie",
+        "DisplayedName": "Yogurt Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Yogurt_Smoothie.png",
         "Level": "70",
         "MaxPrice": "349",
@@ -3326,6 +3456,7 @@
     },
     {
         "Name": "Cloche_Hat",
+        "DisplayedName": "Cloche Hat",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/Cloche_Hat.png",
         "Level": "70",
         "MaxPrice": "468",
@@ -3343,6 +3474,7 @@
     },
     {
         "Name": "Cucumber",
+        "DisplayedName": "Cucumber",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png",
         "Level": "70",
         "MaxPrice": "14",
@@ -3358,6 +3490,7 @@
     },
     {
         "Name": "Cucumber_Smoothie",
+        "DisplayedName": "Cucumber Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/57/Cucumber_Smoothie.png",
         "Level": "70",
         "MaxPrice": "266",
@@ -3376,6 +3509,7 @@
     },
     {
         "Name": "Orange",
+        "DisplayedName": "Orange",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Orange.png",
         "Level": "71",
         "MaxPrice": "97",
@@ -3389,6 +3523,7 @@
     },
     {
         "Name": "Flower_Shawl",
+        "DisplayedName": "Flower Shawl",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Flower_Shawl.png",
         "Level": "71",
         "MaxPrice": "295",
@@ -3407,6 +3542,7 @@
     },
     {
         "Name": "Orange_Juice",
+        "DisplayedName": "Orange Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7e/Orange_Juice.png",
         "Level": "71",
         "MaxPrice": "234",
@@ -3423,6 +3559,7 @@
     },
     {
         "Name": "Peanut_Butter_and_Jelly_Sandwich",
+        "DisplayedName": "Peanut Butter and Jelly Sandwich",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Peanut_Butter_and_Jelly_Sandwich.png",
         "Level": "71",
         "MaxPrice": "601",
@@ -3441,6 +3578,7 @@
     },
     {
         "Name": "Onion_Soup",
+        "DisplayedName": "Onion Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/05/Onion_Soup.png",
         "Level": "72",
         "MaxPrice": "327",
@@ -3459,6 +3597,7 @@
     },
     {
         "Name": "Lemon_Candle",
+        "DisplayedName": "Lemon Candle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Lemon_Candle.png",
         "Level": "72",
         "MaxPrice": "457",
@@ -3476,6 +3615,7 @@
     },
     {
         "Name": "Top_Hat",
+        "DisplayedName": "Top Hat",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8d/Top_Hat.png",
         "Level": "72",
         "MaxPrice": "619",
@@ -3494,6 +3634,7 @@
     },
     {
         "Name": "Gnocchi",
+        "DisplayedName": "Gnocchi",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Gnocchi.png",
         "Level": "72",
         "MaxPrice": "475",
@@ -3513,6 +3654,7 @@
     },
     {
         "Name": "Beetroot",
+        "DisplayedName": "Beetroot",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png",
         "Level": "72",
         "MaxPrice": "14",
@@ -3528,6 +3670,7 @@
     },
     {
         "Name": "Winter_Veggies",
+        "DisplayedName": "Winter Veggies",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Winter_Veggies.png",
         "Level": "72",
         "MaxPrice": "198",
@@ -3547,6 +3690,7 @@
     },
     {
         "Name": "Rice_Noodles",
+        "DisplayedName": "Rice Noodles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Rice_Noodles.png",
         "Level": "73",
         "MaxPrice": "100",
@@ -3563,6 +3707,7 @@
     },
     {
         "Name": "Noodle_Soup",
+        "DisplayedName": "Noodle Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/86/Noodle_Soup.png",
         "Level": "73",
         "MaxPrice": "432",
@@ -3582,6 +3727,7 @@
     },
     {
         "Name": "Gracious_Bouquet",
+        "DisplayedName": "Gracious Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Gracious_Bouquet.png",
         "Level": "73",
         "MaxPrice": "500",
@@ -3601,6 +3747,7 @@
     },
     {
         "Name": "Bell_Pepper",
+        "DisplayedName": "Bell Pepper",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png",
         "Level": "74",
         "MaxPrice": "36",
@@ -3616,6 +3763,7 @@
     },
     {
         "Name": "Marmalade",
+        "DisplayedName": "Marmalade",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Marmalade.png",
         "Level": "74",
         "MaxPrice": "457",
@@ -3632,6 +3780,7 @@
     },
     {
         "Name": "Sun_Hat",
+        "DisplayedName": "Sun Hat",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Sun_Hat.png",
         "Level": "74",
         "MaxPrice": "558",
@@ -3651,6 +3800,7 @@
     },
     {
         "Name": "Veggie_Lasagna",
+        "DisplayedName": "Veggie Lasagna",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d1/Veggie_Lasagna.png",
         "Level": "74",
         "MaxPrice": "532",
@@ -3670,6 +3820,7 @@
     },
     {
         "Name": "Veggie_Platter",
+        "DisplayedName": "Veggie Platter",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Veggie_Platter.png",
         "Level": "74",
         "MaxPrice": "266",
@@ -3689,6 +3840,7 @@
     },
     {
         "Name": "Hot_Dog",
+        "DisplayedName": "Hot Dog",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Hot_Dog.png",
         "Level": "75",
         "MaxPrice": "370",
@@ -3707,6 +3859,7 @@
     },
     {
         "Name": "Coleslaw",
+        "DisplayedName": "Coleslaw",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Coleslaw.png",
         "Level": "75",
         "MaxPrice": "468",
@@ -3725,6 +3878,7 @@
     },
     {
         "Name": "Cotton_Candy",
+        "DisplayedName": "Cotton Candy",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Cotton_Candy.png",
         "Level": "75",
         "MaxPrice": "226",
@@ -3742,6 +3896,7 @@
     },
     {
         "Name": "Peach",
+        "DisplayedName": "Peach",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Peach.png",
         "Level": "76",
         "MaxPrice": "100",
@@ -3755,6 +3910,7 @@
     },
     {
         "Name": "Peach_Tart",
+        "DisplayedName": "Peach Tart",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Peach_Tart.png",
         "Level": "76",
         "MaxPrice": "435",
@@ -3774,6 +3930,7 @@
     },
     {
         "Name": "Tofu_Dog",
+        "DisplayedName": "Tofu Dog",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Tofu_Dog.png",
         "Level": "76",
         "MaxPrice": "367",
@@ -3792,6 +3949,7 @@
     },
     {
         "Name": "Big_Sushi_Roll",
+        "DisplayedName": "Big Sushi Roll",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Big_Sushi_Roll.png",
         "Level": "76",
         "MaxPrice": "648",
@@ -3811,6 +3969,7 @@
     },
     {
         "Name": "Beetroot_Salad",
+        "DisplayedName": "Beetroot Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/ff/Beetroot_Salad.png",
         "Level": "76",
         "MaxPrice": "234",
@@ -3828,6 +3987,7 @@
     },
     {
         "Name": "Plain_Donut",
+        "DisplayedName": "Plain Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Plain_Donut.png",
         "Level": "76",
         "MaxPrice": "129",
@@ -3847,6 +4007,7 @@
     },
     {
         "Name": "Salsa",
+        "DisplayedName": "Salsa",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/Salsa.png",
         "Level": "77",
         "MaxPrice": "252",
@@ -3865,6 +4026,7 @@
     },
     {
         "Name": "Taco",
+        "DisplayedName": "Taco",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4d/Taco.png",
         "Level": "77",
         "MaxPrice": "396",
@@ -3883,6 +4045,7 @@
     },
     {
         "Name": "Colourful_Omelet",
+        "DisplayedName": "Colourful Omelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Colourful_Omelet.png",
         "Level": "77",
         "MaxPrice": "136",
@@ -3902,6 +4065,7 @@
     },
     {
         "Name": "Spring_Omelet",
+        "DisplayedName": "Spring Omelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f2/Spring_Omelet.png",
         "Level": "77",
         "MaxPrice": "230",
@@ -3920,6 +4084,7 @@
     },
     {
         "Name": "Summer_Rolls",
+        "DisplayedName": "Summer Rolls",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/74/Summer_Rolls.png",
         "Level": "78",
         "MaxPrice": "316",
@@ -3939,6 +4104,7 @@
     },
     {
         "Name": "Orange_Sorbet",
+        "DisplayedName": "Orange Sorbet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/11/Orange_Sorbet.png",
         "Level": "78",
         "MaxPrice": "399",
@@ -3956,6 +4122,7 @@
     },
     {
         "Name": "Corn_Dog",
+        "DisplayedName": "Corn Dog",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/15/Corn_Dog.png",
         "Level": "78",
         "MaxPrice": "529",
@@ -3974,6 +4141,7 @@
     },
     {
         "Name": "Potato_Soup",
+        "DisplayedName": "Potato Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Potato_Soup.png",
         "Level": "78",
         "MaxPrice": "255",
@@ -3992,6 +4160,7 @@
     },
     {
         "Name": "Ginger",
+        "DisplayedName": "Ginger",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png",
         "Level": "78",
         "MaxPrice": "28",
@@ -4007,6 +4176,7 @@
     },
     {
         "Name": "Sesame_Brittle",
+        "DisplayedName": "Sesame Brittle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Sesame_Brittle.png",
         "Level": "78",
         "MaxPrice": "270",
@@ -4025,6 +4195,7 @@
     },
     {
         "Name": "Affogato",
+        "DisplayedName": "Affogato",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Affogato.png",
         "Level": "78",
         "MaxPrice": "435",
@@ -4042,6 +4213,7 @@
     },
     {
         "Name": "Fish_Taco",
+        "DisplayedName": "Fish Taco",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Fish_Taco.png",
         "Level": "79",
         "MaxPrice": "392",
@@ -4061,6 +4233,7 @@
     },
     {
         "Name": "Peach_Jam",
+        "DisplayedName": "Peach Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Peach_Jam.png",
         "Level": "79",
         "MaxPrice": "464",
@@ -4077,6 +4250,7 @@
     },
     {
         "Name": "Lobster_Pasta",
+        "DisplayedName": "Lobster Pasta",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5a/Lobster_Pasta.png",
         "Level": "79",
         "MaxPrice": "637",
@@ -4096,6 +4270,7 @@
     },
     {
         "Name": "Cucumber_Sandwich",
+        "DisplayedName": "Cucumber Sandwich",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Cucumber_Sandwich.png",
         "Level": "79",
         "MaxPrice": "464",
@@ -4114,6 +4289,7 @@
     },
     {
         "Name": "Spicy_Fish",
+        "DisplayedName": "Spicy Fish",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Spicy_Fish.png",
         "Level": "79",
         "MaxPrice": "543",
@@ -4133,6 +4309,7 @@
     },
     {
         "Name": "Sprinkled_Donut",
+        "DisplayedName": "Sprinkled Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Sprinkled_Donut.png",
         "Level": "79",
         "MaxPrice": "313",
@@ -4150,6 +4327,7 @@
     },
     {
         "Name": "Cheese_Omelet",
+        "DisplayedName": "Cheese Omelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Cheese_Omelet.png",
         "Level": "79",
         "MaxPrice": "464",
@@ -4169,6 +4347,7 @@
     },
     {
         "Name": "Tea_Leaf",
+        "DisplayedName": "Tea Leaf",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png",
         "Level": "80",
         "MaxPrice": "43",
@@ -4184,6 +4363,7 @@
     },
     {
         "Name": "Green_Tea",
+        "DisplayedName": "Green Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Green_Tea.png",
         "Level": "80",
         "MaxPrice": "241",
@@ -4200,6 +4380,7 @@
     },
     {
         "Name": "Onion_Dog",
+        "DisplayedName": "Onion Dog",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/Onion_Dog.png",
         "Level": "80",
         "MaxPrice": "306",
@@ -4219,6 +4400,7 @@
     },
     {
         "Name": "Stuffed_Peppers",
+        "DisplayedName": "Stuffed Peppers",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Stuffed_Peppers.png",
         "Level": "80",
         "MaxPrice": "352",
@@ -4238,6 +4420,7 @@
     },
     {
         "Name": "Milk_Tea",
+        "DisplayedName": "Milk Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Milk_Tea.png",
         "Level": "81",
         "MaxPrice": "190",
@@ -4255,6 +4438,7 @@
     },
     {
         "Name": "Bell_Pepper_Soup",
+        "DisplayedName": "Bell Pepper Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Bell_Pepper_Soup.png",
         "Level": "81",
         "MaxPrice": "439",
@@ -4274,6 +4458,7 @@
     },
     {
         "Name": "Chocolate_Fondue",
+        "DisplayedName": "Chocolate Fondue",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Chocolate_Fondue.png",
         "Level": "81",
         "MaxPrice": "626",
@@ -4291,6 +4476,7 @@
     },
     {
         "Name": "Peony",
+        "DisplayedName": "Peony",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png",
         "Level": "82",
         "MaxPrice": "36",
@@ -4306,6 +4492,7 @@
     },
     {
         "Name": "Quesadilla",
+        "DisplayedName": "Quesadilla",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Quesadilla.png",
         "Level": "82",
         "MaxPrice": "241",
@@ -4324,6 +4511,7 @@
     },
     {
         "Name": "Fruit_Salad",
+        "DisplayedName": "Fruit Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Fruit_Salad.png",
         "Level": "82",
         "MaxPrice": "597",
@@ -4343,6 +4531,7 @@
     },
     {
         "Name": "Crunchy_Donut",
+        "DisplayedName": "Crunchy Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/46/Crunchy_Donut.png",
         "Level": "82",
         "MaxPrice": "594",
@@ -4361,6 +4550,7 @@
     },
     {
         "Name": "Pasta_Carbonara",
+        "DisplayedName": "Pasta Carbonara",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cd/Pasta_Carbonara.png",
         "Level": "83",
         "MaxPrice": "410",
@@ -4380,6 +4570,7 @@
     },
     {
         "Name": "Peach_Ice_Cream",
+        "DisplayedName": "Peach Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/Peach_Ice_Cream.png",
         "Level": "83",
         "MaxPrice": "450",
@@ -4398,6 +4589,7 @@
     },
     {
         "Name": "Honey_Tea",
+        "DisplayedName": "Honey Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b8/Honey_Tea.png",
         "Level": "83",
         "MaxPrice": "313",
@@ -4415,6 +4607,7 @@
     },
     {
         "Name": "Broccoli",
+        "DisplayedName": "Broccoli",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png",
         "Level": "83",
         "MaxPrice": "21",
@@ -4430,6 +4623,7 @@
     },
     {
         "Name": "Broccoli_Pasta",
+        "DisplayedName": "Broccoli Pasta",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Broccoli_Pasta.png",
         "Level": "83",
         "MaxPrice": "345",
@@ -4448,6 +4642,7 @@
     },
     {
         "Name": "Rice_Omelet",
+        "DisplayedName": "Rice Omelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b2/Rice_Omelet.png",
         "Level": "83",
         "MaxPrice": "572",
@@ -4466,6 +4661,7 @@
     },
     {
         "Name": "Summer_Salad",
+        "DisplayedName": "Summer Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Summer_Salad.png",
         "Level": "84",
         "MaxPrice": "554",
@@ -4485,6 +4681,7 @@
     },
     {
         "Name": "Grapes",
+        "DisplayedName": "Grapes",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png",
         "Level": "84",
         "MaxPrice": "32",
@@ -4500,6 +4697,7 @@
     },
     {
         "Name": "Grape_Juice",
+        "DisplayedName": "Grape Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Grape_Juice.png",
         "Level": "84",
         "MaxPrice": "104",
@@ -4516,6 +4714,7 @@
     },
     {
         "Name": "Onion_Melt",
+        "DisplayedName": "Onion Melt",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Onion_Melt.png",
         "Level": "84",
         "MaxPrice": "417",
@@ -4534,6 +4733,7 @@
     },
     {
         "Name": "Honey_Soap",
+        "DisplayedName": "Honey Soap",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Honey_Soap.png",
         "Level": "84",
         "MaxPrice": "327",
@@ -4552,6 +4752,7 @@
     },
     {
         "Name": "Lemon_Lotion",
+        "DisplayedName": "Lemon Lotion",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Lemon_Lotion.png",
         "Level": "84",
         "MaxPrice": "403",
@@ -4569,6 +4770,7 @@
     },
     {
         "Name": "Colorful_Candles",
+        "DisplayedName": "Colorful Candles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/19/Colorful_Candles.png",
         "Level": "84",
         "MaxPrice": "324",
@@ -4587,6 +4789,7 @@
     },
     {
         "Name": "Mint",
+        "DisplayedName": "Mint",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png",
         "Level": "85",
         "MaxPrice": "32",
@@ -4602,6 +4805,7 @@
     },
     {
         "Name": "Grape_Jam",
+        "DisplayedName": "Grape Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Grape_Jam.png",
         "Level": "85",
         "MaxPrice": "162",
@@ -4618,6 +4822,7 @@
     },
     {
         "Name": "Mint_Ice_Cream",
+        "DisplayedName": "Mint Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Mint_Ice_Cream.png",
         "Level": "85",
         "MaxPrice": "288",
@@ -4637,6 +4842,7 @@
     },
     {
         "Name": "Flower_Crown",
+        "DisplayedName": "Flower Crown",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Flower_Crown.png",
         "Level": "86",
         "MaxPrice": "331",
@@ -4654,6 +4860,7 @@
     },
     {
         "Name": "Lemon_Tea",
+        "DisplayedName": "Lemon Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/28/Lemon_Tea.png",
         "Level": "86",
         "MaxPrice": "241",
@@ -4671,6 +4878,7 @@
     },
     {
         "Name": "Bacon_Fondue",
+        "DisplayedName": "Bacon Fondue",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Bacon_Fondue.png",
         "Level": "86",
         "MaxPrice": "507",
@@ -4690,6 +4898,7 @@
     },
     {
         "Name": "Peanut_Noodles",
+        "DisplayedName": "Peanut Noodles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Peanut_Noodles.png",
         "Level": "86",
         "MaxPrice": "597",
@@ -4709,6 +4918,7 @@
     },
     {
         "Name": "Gingerbread_Cookie",
+        "DisplayedName": "Gingerbread Cookie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Gingerbread_Cookie.png",
         "Level": "86",
         "MaxPrice": "273",
@@ -4728,6 +4938,7 @@
     },
     {
         "Name": "Cream_Donut",
+        "DisplayedName": "Cream Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cream_Donut.png",
         "Level": "86",
         "MaxPrice": "230",
@@ -4746,6 +4957,7 @@
     },
     {
         "Name": "Nachos",
+        "DisplayedName": "Nachos",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Nachos.png",
         "Level": "87",
         "MaxPrice": "432",
@@ -4764,6 +4976,7 @@
     },
     {
         "Name": "Spicy_Pasta",
+        "DisplayedName": "Spicy Pasta",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Spicy_Pasta.png",
         "Level": "87",
         "MaxPrice": "576",
@@ -4783,6 +4996,7 @@
     },
     {
         "Name": "Broccoli_Soup",
+        "DisplayedName": "Broccoli Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b6/Broccoli_Soup.png",
         "Level": "87",
         "MaxPrice": "237",
@@ -4801,6 +5015,7 @@
     },
     {
         "Name": "Bacon_Fries",
+        "DisplayedName": "Bacon Fries",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Bacon_Fries.png",
         "Level": "87",
         "MaxPrice": "302",
@@ -4820,6 +5035,7 @@
     },
     {
         "Name": "Potato_Omelet",
+        "DisplayedName": "Potato Omelet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ca/Potato_Omelet.png",
         "Level": "87",
         "MaxPrice": "270",
@@ -4838,6 +5054,7 @@
     },
     {
         "Name": "Mixed_Smoothie",
+        "DisplayedName": "Mixed Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6b/Mixed_Smoothie.png",
         "Level": "88",
         "MaxPrice": "504",
@@ -4856,6 +5073,7 @@
     },
     {
         "Name": "Banana",
+        "DisplayedName": "Banana",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Banana.png",
         "Level": "88",
         "MaxPrice": "104",
@@ -4869,6 +5087,7 @@
     },
     {
         "Name": "Iced_Banana_Latte",
+        "DisplayedName": "Iced Banana Latte",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Iced_Banana_Latte.png",
         "Level": "88",
         "MaxPrice": "277",
@@ -4887,6 +5106,7 @@
     },
     {
         "Name": "Apple_Ginger_Tea",
+        "DisplayedName": "Apple Ginger Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Apple_Ginger_Tea.png",
         "Level": "88",
         "MaxPrice": "169",
@@ -4905,6 +5125,7 @@
     },
     {
         "Name": "Bacon_Donut",
+        "DisplayedName": "Bacon Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Bacon_Donut.png",
         "Level": "88",
         "MaxPrice": "388",
@@ -4923,6 +5144,7 @@
     },
     {
         "Name": "Passion_Fruit",
+        "DisplayedName": "Passion Fruit",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png",
         "Level": "88",
         "MaxPrice": "18",
@@ -4938,6 +5160,7 @@
     },
     {
         "Name": "Passion_Fruit_Juice",
+        "DisplayedName": "Passion Fruit Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Passion_Fruit_Juice.png",
         "Level": "88",
         "MaxPrice": "64",
@@ -4954,6 +5177,7 @@
     },
     {
         "Name": "Orange_Tea",
+        "DisplayedName": "Orange Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Orange_Tea.png",
         "Level": "89",
         "MaxPrice": "255",
@@ -4971,6 +5195,7 @@
     },
     {
         "Name": "Fruit_Cake",
+        "DisplayedName": "Fruit Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/47/Fruit_Cake.png",
         "Level": "89",
         "MaxPrice": "450",
@@ -4990,6 +5215,7 @@
     },
     {
         "Name": "Mushroom",
+        "DisplayedName": "Mushroom",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png",
         "Level": "89",
         "MaxPrice": "10",
@@ -5005,6 +5231,7 @@
     },
     {
         "Name": "Mushroom_Salad",
+        "DisplayedName": "Mushroom Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Mushroom_Salad.png",
         "Level": "89",
         "MaxPrice": "216",
@@ -5024,6 +5251,7 @@
     },
     {
         "Name": "Tofu_Stir_Fry",
+        "DisplayedName": "Tofu Stir Fry",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/db/Tofu_Stir_Fry.png",
         "Level": "89",
         "MaxPrice": "306",
@@ -5043,6 +5271,7 @@
     },
     {
         "Name": "Candy_Bouquet",
+        "DisplayedName": "Candy Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Candy_Bouquet.png",
         "Level": "90",
         "MaxPrice": "554",
@@ -5061,6 +5290,7 @@
     },
     {
         "Name": "Eggplant",
+        "DisplayedName": "Eggplant",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png",
         "Level": "90",
         "MaxPrice": "14",
@@ -5076,6 +5306,7 @@
     },
     {
         "Name": "Grilled_Eggplant",
+        "DisplayedName": "Grilled Eggplant",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Grilled_Eggplant.png",
         "Level": "90",
         "MaxPrice": "324",
@@ -5093,6 +5324,7 @@
     },
     {
         "Name": "Banana_Bread",
+        "DisplayedName": "Banana Bread",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Banana_Bread.png",
         "Level": "91",
         "MaxPrice": "424",
@@ -5112,6 +5344,7 @@
     },
     {
         "Name": "Cheese_Fondue",
+        "DisplayedName": "Cheese Fondue",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Cheese_Fondue.png",
         "Level": "91",
         "MaxPrice": "493",
@@ -5131,6 +5364,7 @@
     },
     {
         "Name": "Hand_Pies",
+        "DisplayedName": "Hand Pies",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Hand_Pies.png",
         "Level": "91",
         "MaxPrice": "295",
@@ -5149,6 +5383,7 @@
     },
     {
         "Name": "Pickles",
+        "DisplayedName": "Pickles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Pickles.png",
         "Level": "91",
         "MaxPrice": "270",
@@ -5167,6 +5402,7 @@
     },
     {
         "Name": "Watermelon",
+        "DisplayedName": "Watermelon",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png",
         "Level": "92",
         "MaxPrice": "39",
@@ -5182,6 +5418,7 @@
     },
     {
         "Name": "Iced_Tea",
+        "DisplayedName": "Iced Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Iced_Tea.png",
         "Level": "92",
         "MaxPrice": "252",
@@ -5199,6 +5436,7 @@
     },
     {
         "Name": "Goat_Cheese_Toast",
+        "DisplayedName": "Goat Cheese Toast",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Goat_Cheese_Toast.png",
         "Level": "92",
         "MaxPrice": "302",
@@ -5217,6 +5455,7 @@
     },
     {
         "Name": "Watermelon_Juice",
+        "DisplayedName": "Watermelon Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Watermelon_Juice.png",
         "Level": "92",
         "MaxPrice": "108",
@@ -5233,6 +5472,7 @@
     },
     {
         "Name": "Birthday_Bouquet",
+        "DisplayedName": "Birthday Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/23/Birthday_Bouquet.png",
         "Level": "92",
         "MaxPrice": "349",
@@ -5252,6 +5492,7 @@
     },
     {
         "Name": "Passion_Fruit_Pie",
+        "DisplayedName": "Passion Fruit Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/65/Passion_Fruit_Pie.png",
         "Level": "92",
         "MaxPrice": "111",
@@ -5270,6 +5511,7 @@
     },
     {
         "Name": "Soft_Bouquet",
+        "DisplayedName": "Soft Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Soft_Bouquet.png",
         "Level": "93",
         "MaxPrice": "298",
@@ -5288,6 +5530,7 @@
     },
     {
         "Name": "Black_Sesame_Smoothie",
+        "DisplayedName": "Black Sesame Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3c/Black_Sesame_Smoothie.png",
         "Level": "93",
         "MaxPrice": "313",
@@ -5306,6 +5549,7 @@
     },
     {
         "Name": "Exfoliating_Soap",
+        "DisplayedName": "Exfoliating Soap",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Exfoliating_Soap.png",
         "Level": "93",
         "MaxPrice": "363",
@@ -5324,6 +5568,7 @@
     },
     {
         "Name": "Filled_Donut",
+        "DisplayedName": "Filled Donut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Filled_Donut.png",
         "Level": "93",
         "MaxPrice": "403",
@@ -5341,6 +5586,7 @@
     },
     {
         "Name": "Plum",
+        "DisplayedName": "Plum",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Plum.png",
         "Level": "94",
         "MaxPrice": "82",
@@ -5354,6 +5600,7 @@
     },
     {
         "Name": "Banana_Pancakes",
+        "DisplayedName": "Banana Pancakes",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/Banana_Pancakes.png",
         "Level": "94",
         "MaxPrice": "352",
@@ -5373,6 +5620,7 @@
     },
     {
         "Name": "Plum_Jam",
+        "DisplayedName": "Plum Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Plum_Jam.png",
         "Level": "94",
         "MaxPrice": "385",
@@ -5389,6 +5637,7 @@
     },
     {
         "Name": "Clay",
+        "DisplayedName": "Clay",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png",
         "Level": "94",
         "MaxPrice": "18",
@@ -5404,6 +5653,7 @@
     },
     {
         "Name": "Tea_Pot",
+        "DisplayedName": "Tea Pot",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6e/Tea_Pot.png",
         "Level": "94",
         "MaxPrice": "219",
@@ -5422,6 +5672,7 @@
     },
     {
         "Name": "Floral_Candle",
+        "DisplayedName": "Floral Candle",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Floral_Candle.png",
         "Level": "95",
         "MaxPrice": "442",
@@ -5441,6 +5692,7 @@
     },
     {
         "Name": "Chocolate_Roll",
+        "DisplayedName": "Chocolate Roll",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Chocolate_Roll.png",
         "Level": "95",
         "MaxPrice": "604",
@@ -5460,6 +5712,7 @@
     },
     {
         "Name": "Canned_Fish",
+        "DisplayedName": "Canned Fish",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Canned_Fish.png",
         "Level": "95",
         "MaxPrice": "471",
@@ -5478,6 +5731,7 @@
     },
     {
         "Name": "Chickpea",
+        "DisplayedName": "Chickpea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png",
         "Level": "95",
         "MaxPrice": "18",
@@ -5493,6 +5747,7 @@
     },
     {
         "Name": "Hummus",
+        "DisplayedName": "Hummus",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/78/Hummus.png",
         "Level": "95",
         "MaxPrice": "277",
@@ -5511,6 +5766,7 @@
     },
     {
         "Name": "Banana_Split",
+        "DisplayedName": "Banana Split",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/bd/Banana_Split.png",
         "Level": "96",
         "MaxPrice": "403",
@@ -5529,6 +5785,7 @@
     },
     {
         "Name": "Fish_Skewer",
+        "DisplayedName": "Fish Skewer",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Fish_Skewer.png",
         "Level": "96",
         "MaxPrice": "176",
@@ -5548,6 +5805,7 @@
     },
     {
         "Name": "Passion_Fruit_Jam",
+        "DisplayedName": "Passion Fruit Jam",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Passion_Fruit_Jam.png",
         "Level": "96",
         "MaxPrice": "118",
@@ -5564,6 +5822,7 @@
     },
     {
         "Name": "Potted_Plant",
+        "DisplayedName": "Potted Plant",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a1/Potted_Plant.png",
         "Level": "96",
         "MaxPrice": "151",
@@ -5581,6 +5840,7 @@
     },
     {
         "Name": "Mint_Tea",
+        "DisplayedName": "Mint Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Tea.png",
         "Level": "97",
         "MaxPrice": "255",
@@ -5599,6 +5859,7 @@
     },
     {
         "Name": "Mushroom_Pot_Pie",
+        "DisplayedName": "Mushroom Pot Pie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Mushroom_Pot_Pie.png",
         "Level": "97",
         "MaxPrice": "162",
@@ -5618,6 +5879,7 @@
     },
     {
         "Name": "Mango",
+        "DisplayedName": "Mango",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Mango.png",
         "Level": "97",
         "MaxPrice": "100",
@@ -5631,6 +5893,7 @@
     },
     {
         "Name": "Mango_Juice",
+        "DisplayedName": "Mango Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Mango_Juice.png",
         "Level": "97",
         "MaxPrice": "230",
@@ -5647,6 +5910,7 @@
     },
     {
         "Name": "Flower_Pendant",
+        "DisplayedName": "Flower Pendant",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Flower_Pendant.png",
         "Level": "98",
         "MaxPrice": "698",
@@ -5665,6 +5929,7 @@
     },
     {
         "Name": "Chili_Poppers",
+        "DisplayedName": "Chili Poppers",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Chili_Poppers.png",
         "Level": "98",
         "MaxPrice": "406",
@@ -5684,6 +5949,7 @@
     },
     {
         "Name": "Falafel",
+        "DisplayedName": "Falafel",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5c/Falafel.png",
         "Level": "98",
         "MaxPrice": "226",
@@ -5703,6 +5969,7 @@
     },
     {
         "Name": "Kimchi",
+        "DisplayedName": "Kimchi",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Kimchi.png",
         "Level": "98",
         "MaxPrice": "219",
@@ -5722,6 +5989,7 @@
     },
     {
         "Name": "Eggplant_Parmesan",
+        "DisplayedName": "Eggplant Parmesan",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Eggplant_Parmesan.png",
         "Level": "99",
         "MaxPrice": "442",
@@ -5740,6 +6008,7 @@
     },
     {
         "Name": "Honey_Face_Mask",
+        "DisplayedName": "Honey Face Mask",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Honey_Face_Mask.png",
         "Level": "99",
         "MaxPrice": "320",
@@ -5758,6 +6027,7 @@
     },
     {
         "Name": "Clay_Mug",
+        "DisplayedName": "Clay Mug",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Clay_Mug.png",
         "Level": "99",
         "MaxPrice": "212",
@@ -5776,6 +6046,7 @@
     },
     {
         "Name": "Rich_Fudge",
+        "DisplayedName": "Rich Fudge",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Rich_Fudge.png",
         "Level": "99",
         "MaxPrice": "644",
@@ -5794,6 +6065,7 @@
     },
     {
         "Name": "Cocoa_Smoothie",
+        "DisplayedName": "Cocoa Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Cocoa_Smoothie.png",
         "Level": "100",
         "MaxPrice": "511",
@@ -5812,6 +6084,7 @@
     },
     {
         "Name": "Fried_Candy_Bar",
+        "DisplayedName": "Fried Candy Bar",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Fried_Candy_Bar.png",
         "Level": "100",
         "MaxPrice": "658",
@@ -5830,6 +6103,7 @@
     },
     {
         "Name": "Tart_Dressing",
+        "DisplayedName": "Tart Dressing",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/Tart_Dressing.png",
         "Level": "100",
         "MaxPrice": "288",
@@ -5848,6 +6122,7 @@
     },
     {
         "Name": "Tropical_Fondue",
+        "DisplayedName": "Tropical Fondue",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Tropical_Fondue.png",
         "Level": "100",
         "MaxPrice": "417",
@@ -5867,6 +6142,7 @@
     },
     {
         "Name": "Mushroom_Pasta",
+        "DisplayedName": "Mushroom Pasta",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Mushroom_Pasta.png",
         "Level": "101",
         "MaxPrice": "280",
@@ -5885,6 +6161,7 @@
     },
     {
         "Name": "Coconut",
+        "DisplayedName": "Coconut",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Coconut.png",
         "Level": "101",
         "MaxPrice": "108",
@@ -5898,6 +6175,7 @@
     },
     {
         "Name": "Macaroon",
+        "DisplayedName": "Macaroon",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Macaroon.png",
         "Level": "101",
         "MaxPrice": "421",
@@ -5916,6 +6194,7 @@
     },
     {
         "Name": "Plum_Smoothie",
+        "DisplayedName": "Plum Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c5/Plum_Smoothie.png",
         "Level": "102",
         "MaxPrice": "522",
@@ -5935,6 +6214,7 @@
     },
     {
         "Name": "Dried_Fruit",
+        "DisplayedName": "Dried Fruit",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Dried_Fruit.png",
         "Level": "102",
         "MaxPrice": "266",
@@ -5954,6 +6234,7 @@
     },
     {
         "Name": "Mint_Fudge",
+        "DisplayedName": "Mint Fudge",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Fudge.png",
         "Level": "102",
         "MaxPrice": "522",
@@ -5973,6 +6254,7 @@
     },
     {
         "Name": "Coconut_Ice_Cream",
+        "DisplayedName": "Coconut Ice Cream",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d9/Coconut_Ice_Cream.png",
         "Level": "102",
         "MaxPrice": "320",
@@ -5990,6 +6272,7 @@
     },
     {
         "Name": "Samosa",
+        "DisplayedName": "Samosa",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Samosa.png",
         "Level": "103",
         "MaxPrice": "223",
@@ -6009,6 +6292,7 @@
     },
     {
         "Name": "Plain_Yogurt",
+        "DisplayedName": "Plain Yogurt",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Plain_Yogurt.png",
         "Level": "103",
         "MaxPrice": "234",
@@ -6026,6 +6310,7 @@
     },
     {
         "Name": "Mushroom_Soup",
+        "DisplayedName": "Mushroom Soup",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Mushroom_Soup.png",
         "Level": "104",
         "MaxPrice": "176",
@@ -6044,6 +6329,7 @@
     },
     {
         "Name": "Chili_Fudge",
+        "DisplayedName": "Chili Fudge",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Chili_Fudge.png",
         "Level": "104",
         "MaxPrice": "540",
@@ -6063,6 +6349,7 @@
     },
     {
         "Name": "Tropical_Smoothie",
+        "DisplayedName": "Tropical Smoothie",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/3e/Tropical_Smoothie.png",
         "Level": "104",
         "MaxPrice": "475",
@@ -6082,6 +6369,7 @@
     },
     {
         "Name": "Guava",
+        "DisplayedName": "Guava",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png",
         "Level": "104",
         "MaxPrice": "111",
@@ -6095,6 +6383,7 @@
     },
     {
         "Name": "Guava_Juice",
+        "DisplayedName": "Guava Juice",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Guava_Juice.png",
         "Level": "104",
         "MaxPrice": "252",
@@ -6111,6 +6400,7 @@
     },
     {
         "Name": "Guava_Compote",
+        "DisplayedName": "Guava Compote",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Guava_Compote.png",
         "Level": "104",
         "MaxPrice": "421",
@@ -6129,6 +6419,7 @@
     },
     {
         "Name": "Strawberry_Yogurt",
+        "DisplayedName": "Strawberry Yogurt",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Strawberry_Yogurt.png",
         "Level": "105",
         "MaxPrice": "529",
@@ -6146,6 +6437,7 @@
     },
     {
         "Name": "Veggie_Bouquet",
+        "DisplayedName": "Veggie Bouquet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Veggie_Bouquet.png",
         "Level": "106",
         "MaxPrice": "352",
@@ -6165,6 +6457,7 @@
     },
     {
         "Name": "Chickpea_Stew",
+        "DisplayedName": "Chickpea Stew",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Chickpea_Stew.png",
         "Level": "106",
         "MaxPrice": "284",
@@ -6183,6 +6476,7 @@
     },
     {
         "Name": "Fruit_Sorbet",
+        "DisplayedName": "Fruit Sorbet",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Fruit_Sorbet.png",
         "Level": "106",
         "MaxPrice": "518",
@@ -6202,6 +6496,7 @@
     },
     {
         "Name": "Pomegranate",
+        "DisplayedName": "Pomegranate",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png",
         "Level": "107",
         "MaxPrice": "111",
@@ -6215,6 +6510,7 @@
     },
     {
         "Name": "Pomegranate_Tea",
+        "DisplayedName": "Pomegranate Tea",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Pomegranate_Tea.png",
         "Level": "107",
         "MaxPrice": "313",
@@ -6232,6 +6528,7 @@
     },
     {
         "Name": "Lemon_Fudge",
+        "DisplayedName": "Lemon Fudge",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Lemon_Fudge.png",
         "Level": "108",
         "MaxPrice": "590",
@@ -6251,6 +6548,7 @@
     },
     {
         "Name": "Pomegranate_Cake",
+        "DisplayedName": "Pomegranate Cake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Pomegranate_Cake.png",
         "Level": "108",
         "MaxPrice": "316",
@@ -6270,6 +6568,7 @@
     },
     {
         "Name": "Hummus_Wrap",
+        "DisplayedName": "Hummus Wrap",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/31/Hummus_Wrap.png",
         "Level": "109",
         "MaxPrice": "374",
@@ -6288,6 +6587,7 @@
     },
     {
         "Name": "Tropical_Yogurt",
+        "DisplayedName": "Tropical Yogurt",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Tropical_Yogurt.png",
         "Level": "109",
         "MaxPrice": "457",
@@ -6307,6 +6607,7 @@
     },
     {
         "Name": "Chili_Stew",
+        "DisplayedName": "Chili Stew",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Chili_Stew.png",
         "Level": "109",
         "MaxPrice": "370",
@@ -6326,6 +6627,7 @@
     },
     {
         "Name": "Plain_Cupcake",
+        "DisplayedName": "Plain Cupcake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Plain_Cupcake.png",
         "Level": "109",
         "MaxPrice": "280",
@@ -6345,6 +6647,7 @@
     },
     {
         "Name": "Guava_Cupcake",
+        "DisplayedName": "Guava Cupcake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Guava_Cupcake.png",
         "Level": "109",
         "MaxPrice": "583",
@@ -6363,6 +6666,7 @@
     },
     {
         "Name": "Rice_Ball",
+        "DisplayedName": "Rice Ball",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Rice_Ball.png",
         "Level": "110",
         "MaxPrice": "464",
@@ -6381,6 +6685,7 @@
     },
     {
         "Name": "Peanut_Fudge",
+        "DisplayedName": "Peanut Fudge",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Peanut_Fudge.png",
         "Level": "111",
         "MaxPrice": "1141",
@@ -6400,6 +6705,7 @@
     },
     {
         "Name": "Tropical_Cupcake",
+        "DisplayedName": "Tropical Cupcake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9b/Tropical_Cupcake.png",
         "Level": "112",
         "MaxPrice": "572",
@@ -6418,6 +6724,7 @@
     },
     {
         "Name": "Winter_Stew",
+        "DisplayedName": "Winter Stew",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Winter_Stew.png",
         "Level": "112",
         "MaxPrice": "295",
@@ -6437,6 +6744,7 @@
     },
     {
         "Name": "Cookie_Cupcake",
+        "DisplayedName": "Cookie Cupcake",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/86/Cookie_Cupcake.png",
         "Level": "114",
         "MaxPrice": "712",
@@ -6456,6 +6764,7 @@
     },
     {
         "Name": "Plain_Waffles",
+        "DisplayedName": "Plain Waffles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Plain_Waffles.png",
         "Level": "114",
         "MaxPrice": "198",
@@ -6474,6 +6783,7 @@
     },
     {
         "Name": "Berry_Waffles",
+        "DisplayedName": "Berry Waffles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/29/Berry_Waffles.png",
         "Level": "114",
         "MaxPrice": "604",
@@ -6493,6 +6803,7 @@
     },
     {
         "Name": "Orange_Salad",
+        "DisplayedName": "Orange Salad",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/b/bb/Orange_Salad.png",
         "Level": "117",
         "MaxPrice": "558",
@@ -6512,6 +6823,7 @@
     },
     {
         "Name": "Chocolate_Waffles",
+        "DisplayedName": "Chocolate Waffles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/4d/Chocolate_Waffles.png",
         "Level": "117",
         "MaxPrice": "637",
@@ -6531,6 +6843,7 @@
     },
     {
         "Name": "Breakfast_Waffles",
+        "DisplayedName": "Breakfast Waffles",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Breakfast_Waffles.png",
         "Level": "119",
         "MaxPrice": "424",
@@ -6550,6 +6863,7 @@
     },
     {
         "Name": "Breakfast_Bowl",
+        "DisplayedName": "Breakfast Bowl",
         "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Breakfast_Bowl.png",
         "Level": "119",
         "MaxPrice": "604",
